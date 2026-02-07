@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+langchain-groq
+langchain-community
+dotenv
+pandas
+ipykernel
+faiss-cpu
+chromadb
+pypdf
+tiktoken
+sentence-transformers
+huggingface-hub
+scikit-learn
