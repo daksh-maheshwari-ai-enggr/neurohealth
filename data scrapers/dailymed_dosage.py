@@ -42,7 +42,7 @@ def get_spl_xml(setid):
 
 
 def build_drug_file(drug_name):
-    print(f"\n🔎 Processing: {drug_name}")
+    print(f"\n Processing: {drug_name}")
 
     setid = get_setid(drug_name)
 
@@ -50,7 +50,7 @@ def build_drug_file(drug_name):
         print("No SETID found")
         return
 
-    print("✔ SETID:", setid)
+    print(" SETID:", setid)
 
     xml_data = get_spl_xml(setid)
 
@@ -62,7 +62,7 @@ def build_drug_file(drug_name):
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(xml_data)
 
-    print("✅ Saved:", output_file)
+    print(" Saved:", output_file)
 
 
 PROTOTYPE_DRUGS = [
@@ -77,4 +77,4 @@ for drug in PROTOTYPE_DRUGS:
     build_drug_file(drug)
     time.sleep(1)
 
-print("\n🚀 DailyMed XML ingestion complete.")
+print("\n DailyMed XML ingestion complete.")
