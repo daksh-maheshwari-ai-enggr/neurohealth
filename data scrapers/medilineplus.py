@@ -34,4 +34,4 @@ for test, url in TESTS.items():
 
     time.sleep(1)
 
-print("✅ Lab test data ready")
+print("Lab test data ready")
