@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from langextract.providers.openai import OpenAILanguageModel
 
 
-# ========= CONFIG =========
+
 
 INPUT_DIR = r"C:\orchestration\data\drugs_clean_final"
 OUTPUT_DIR = r"C:\orchestration\data\dosage_json"
@@ -14,12 +14,12 @@ OUTPUT_DIR = r"C:\orchestration\data\dosage_json"
 MODEL_ID = "meta-llama/llama-4-scout-17b-16e-instruct"
 BASE_URL = "https://api.groq.com/openai/v1"
 
-EXTRACTION_PASSES = 1      # 🔥 reduced
-COOLDOWN_SECONDS = 10   # 🔥 prevent RPM hit
+EXTRACTION_PASSES = 1      
+COOLDOWN_SECONDS = 10   
 MAX_RETRIES = 5
  
 
-# ========= LOAD ENV =========
+
 
 load_dotenv()
 api_key = os.getenv("GROQ_API_KEY")
@@ -32,7 +32,7 @@ model = OpenAILanguageModel(
 )
 
 
-# ========= PROMPT =========
+
 
 import textwrap
 
@@ -41,7 +41,7 @@ You are a clinical-grade medical information extraction system.
 
 Your task is STRICT span extraction from the provided drug document.
 
-⚠️ ZERO HALLUCINATION POLICY:
+  ZERO HALLUCINATION POLICY:
 - Extract ONLY phrases that appear EXACTLY in the text.
 - NEVER generate medical information.
 - NEVER infer.
@@ -206,11 +206,7 @@ Take as directed by your physician.
                 attributes={}
             )
 
-            # ❗ Notice:
-            # No adult_dosage extracted because no numeric dosage present.
-            # No max_dose.
-            # No contraindication.
-            # No warning.
+            
         ]
     )
 ]
@@ -220,7 +216,7 @@ Take as directed by your physician.
 
 
 
-# ========= PROCESSING =========
+
 
 def deduplicate_extractions(extractions):
     seen = set()
@@ -239,7 +235,7 @@ def deduplicate_extractions(extractions):
 
 
 def safe_extract(text):
-    delay = 5  # initial backoff
+    delay = 5  
 
     for attempt in range(MAX_RETRIES):
         try:
@@ -248,7 +244,7 @@ def safe_extract(text):
                 prompt_description=PROMPT,
                 examples=examples,
                 model=model,
-                extraction_passes=1   # 🔥 keep 1 only
+                extraction_passes=1  
             )
             return result
 
@@ -256,26 +252,26 @@ def safe_extract(text):
             error_str = str(e).lower()
 
             if "rate_limit" in error_str or "429" in error_str:
-                print(f"   ⏳ Rate limit hit. Sleeping {delay}s...")
+                print(f"   Rate limit hit. Sleeping {delay}s...")
                 time.sleep(delay)
-                delay *= 2   # exponential backoff
+                delay *= 2   
             else:
                 raise e
 
     raise Exception("Max retries exceeded.")
 
 
-# ========= MAIN =========
+
 
 def process_directory(input_dir, output_dir):
     os.makedirs(output_dir, exist_ok=True)
 
     txt_files = [f for f in os.listdir(input_dir) if f.endswith("_FULL.txt")]
-    print(f"🔍 Found {len(txt_files)} documents\n")
+    print(f" Found {len(txt_files)} documents\n")
 
     for index, file_name in enumerate(txt_files):
         file_path = os.path.join(input_dir, file_name)
-        print(f"⚙ Processing ({index+1}/{len(txt_files)}): {file_name}")
+        print(f" Processing ({index+1}/{len(txt_files)}): {file_name}")
 
         with open(file_path, "r", encoding="utf-8") as f:
             text = f.read()
@@ -283,15 +279,15 @@ def process_directory(input_dir, output_dir):
         try:
             result = safe_extract(text)
 
-            print("   🔎 Raw extraction count:", len(result.extractions))
+            print("    Raw extraction count:", len(result.extractions))
 
             if not result.extractions:
-                print("   ⚠ No extractions found.\n")
+                print("    No extractions found.\n")
                 time.sleep(COOLDOWN_SECONDS)
                 continue
 
             if not result.extractions:
-                print("   ⚠ No extractions found.\n")
+                print("    No extractions found.\n")
                 time.sleep(COOLDOWN_SECONDS)
                 continue
 
@@ -305,15 +301,15 @@ def process_directory(input_dir, output_dir):
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(clean_data, f, indent=2)
 
-            print("   ✅ Saved\n")
+            print("    Saved\n")
 
-            # 🔥 FIXED COOLDOWN BETWEEN FILES
-            print(f"   💤 Cooling down {COOLDOWN_SECONDS}s...\n")
+        
+            print(f"   Cooling down {COOLDOWN_SECONDS}s...\n")
             time.sleep(COOLDOWN_SECONDS)
 
         except Exception as e:
-            print(f"   ❌ Error: {e}\n")
-            print("   💤 Cooling before next file...\n")
+            print(f"    Error: {e}\n")
+            print("    Cooling before next file...\n")
             time.sleep(COOLDOWN_SECONDS)
 
-    print("🎯 All files processed.")
+    print(" All files processed.")
