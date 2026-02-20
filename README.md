@@ -1,8 +1,6 @@
 # NeuroHealth – AI-Powered Health Assistant
 
-### OSRE 2026 – Layered, Safety-Oriented Medical AI System
-
-NeuroHealth is a modular health assistance system built around a structured orchestration pipeline rather than a single LLM prompt.
+NeuroHealth is a health assistance system built around a structured orchestration pipeline rather than a single LLM prompt.
 
 The core idea is simple:
 
