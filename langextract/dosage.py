@@ -1,25 +1,21 @@
 import os
 import json
-import time
+import textwrap
 import langextract as lx
 from dotenv import load_dotenv
 from langextract.providers.openai import OpenAILanguageModel
 
 
+# ========= CONFIG =========
 
-
-INPUT_DIR = r"C:\orchestration\data\drugs_clean_final"
-OUTPUT_DIR = r"C:\orchestration\data\dosage_json"
+INPUT_FILE = r"C:\orchestration\data\drugs_clean_final\metformin_FULL.txt"
+OUTPUT_FILE = r"C:\orchestration\data\dosage_json\metformin_EXTRACTIONS.json"
 
 MODEL_ID = "meta-llama/llama-4-scout-17b-16e-instruct"
 BASE_URL = "https://api.groq.com/openai/v1"
 
-EXTRACTION_PASSES = 1      
-COOLDOWN_SECONDS = 10   
-MAX_RETRIES = 5
- 
 
-
+# ========= LOAD ENV =========
 
 load_dotenv()
 api_key = os.getenv("GROQ_API_KEY")
@@ -29,7 +25,9 @@ model = OpenAILanguageModel(
     api_key=api_key,
     base_url=BASE_URL,
     temperature=0.1,
+    max_concurrent_requests=1
 )
+
 
 
 
@@ -204,6 +202,7 @@ Take as directed by your physician.
                 extraction_class="indication",
                 extraction_text="hypertension",
                 attributes={}
+    
             )
 
             
@@ -234,82 +233,40 @@ def deduplicate_extractions(extractions):
     return clean
 
 
-def safe_extract(text):
-    delay = 5  
+# ========= MAIN =========
 
-    for attempt in range(MAX_RETRIES):
-        try:
-            result = lx.extract(
-                text_or_documents=text,
-                prompt_description=PROMPT,
-                examples=examples,
-                model=model,
-                extraction_passes=1  
-            )
-            return result
+def run_extraction():
 
-        except Exception as e:
-            error_str = str(e).lower()
+    print(" Reading file...")
 
-            if "rate_limit" in error_str or "429" in error_str:
-                print(f"   Rate limit hit. Sleeping {delay}s...")
-                time.sleep(delay)
-                delay *= 2   
-            else:
-                raise e
+    with open(INPUT_FILE, "r", encoding="utf-8") as f:
+        text = f.read()
 
-    raise Exception("Max retries exceeded.")
+    print(" Running extraction...")
+
+    result = lx.extract(
+        text_or_documents=text,
+        prompt_description=PROMPT,
+        model=model,
+        extraction_passes=1,
+        examples=examples,
+        max_char_buffer=4000,
+        resolve=False
+    )
+
+    print(" Raw extraction count:", len(result.extractions))
+
+    if not result.extractions:
+        print(" No extractions found.")
+        return
+
+    clean_data = deduplicate_extractions(result.extractions)
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(clean_data, f, indent=2)
+
+    print(" Saved to:", OUTPUT_FILE)
 
 
-
-
-def process_directory(input_dir, output_dir):
-    os.makedirs(output_dir, exist_ok=True)
-
-    txt_files = [f for f in os.listdir(input_dir) if f.endswith("_FULL.txt")]
-    print(f" Found {len(txt_files)} documents\n")
-
-    for index, file_name in enumerate(txt_files):
-        file_path = os.path.join(input_dir, file_name)
-        print(f" Processing ({index+1}/{len(txt_files)}): {file_name}")
-
-        with open(file_path, "r", encoding="utf-8") as f:
-            text = f.read()
-
-        try:
-            result = safe_extract(text)
-
-            print("    Raw extraction count:", len(result.extractions))
-
-            if not result.extractions:
-                print("    No extractions found.\n")
-                time.sleep(COOLDOWN_SECONDS)
-                continue
-
-            if not result.extractions:
-                print("    No extractions found.\n")
-                time.sleep(COOLDOWN_SECONDS)
-                continue
-
-            clean_data = deduplicate_extractions(result.extractions)
-
-            output_path = os.path.join(
-                output_dir,
-                file_name.replace("_FULL.txt", "_EXTRACTIONS.json")
-            )
-
-            with open(output_path, "w", encoding="utf-8") as f:
-                json.dump(clean_data, f, indent=2)
-
-            print("    Saved\n")
-
-        
-            print(f"   Cooling down {COOLDOWN_SECONDS}s...\n")
-            time.sleep(COOLDOWN_SECONDS)
-
-        except Exception as e:
-            print(f"    Error: {e}\n")
-            print("    Cooling before next file...\n")
-            time.sleep(COOLDOWN_SECONDS)
-
-    print(" All files processed.")
+if __name__ == "__main__":
+    run_extraction()
