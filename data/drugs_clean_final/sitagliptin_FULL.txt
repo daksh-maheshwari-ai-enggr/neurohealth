@@ -1,0 +1,752 @@
+
+
+=== BOXED WARNING ===
+
+
+
+
+
+
+
+
+
+
+=== 1 INDICATIONS AND USAGE ===
+
+ZITUVIMET XR is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
+
+ZITUVIMET XR is not recommended in patients with type 1 diabetes mellitus.
+ZITUVIMET XR has not been studied in patients with a history of pancreatitis. It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using ZITUVIMET XR
+ZITUVIMET XR is a combination of sitagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor, and metformin hydrochloride (HCl), a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. (
+Limitations of Use:
+
+
+=== 2 DOSAGE AND ADMINISTRATION ===
+
+Discontinue ZITUVIMET XR at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m
+
+
+=== 2.1 RECOMMENDED DOSAGE AND ADMINISTRATION ===
+
+
+
+=== 2.2 RECOMMENDATIONS FOR USE IN RENAL IMPAIRMENT ===
+
+
+
+=== 2.3 DISCONTINUATION FOR IODINATED CONTRAST IMAGING PROCEDURES ===
+
+Discontinue ZITUVIMET XR at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m
+
+
+=== 3 DOSAGE FORMS AND STRENGTHS ===
+
+Tablets:
+ZITUVIMET XR Tablets:
+
+
+=== 4 CONTRAINDICATIONS ===
+
+ZITUVIMET XR is contraindicated in patients with:
+
+
+=== 5 WARNINGS AND PRECAUTIONS ===
+
+There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases. These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis. Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate/pyruvate ratio; metformin plasma levels were generally >5 mcg/mL. Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
+If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of ZITUVIMET XR. In ZITUVIMET XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin HCl is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions). Hemodialysis has often resulted in reversal of symptoms and recovery.
+Educate patients and their families about the symptoms of lactic acidosis, and if these symptoms occur instruct them to discontinue ZITUVIMET XR and report these symptoms to their health care provider.
+For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
+
+The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment. The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney. Clinical recommendations based upon the patient's renal function include
+
+The concomitant use of ZITUVIMET XR with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation
+
+The risk of metformin-associated lactic acidosis increases with the patient's age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients. Assess renal function more frequently in elderly patients
+
+Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis. Stop ZITUVIMET XR at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m
+
+Withholding of food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension and renal impairment. ZITUVIMET XR should be temporarily discontinued while patients have restricted food and fluid intake.
+
+Several of the postmarketing cases of metformin-associated lactic acidosis occurred in the setting of acute congestive heart failure (particularly when accompanied by hypoperfusion and hypoxemia). Cardiovascular collapse (shock), acute myocardial infarction, sepsis, and other conditions associated with hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia. When such events occur, discontinue ZITUVIMET XR.
+
+Alcohol potentiates the effect of metformin on lactate metabolism and this may increase the risk of metformin-associated lactic acidosis. Warn patients against excessive alcohol intake while receiving ZITUVIMET XR.
+
+Patients with hepatic impairment have developed with cases of metformin-associated lactic acidosis. This may be due to impaired lactate clearance resulting in higher lactate blood levels. Therefore, avoid use of ZITUVIMET XR in patients with clinical or laboratory evidence of hepatic disease.
+There have been postmarketing reports of acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, in patients taking sitagliptin with or without metformin. After initiation of ZITUVIMET XR, patients should be observed carefully for signs and symptoms of pancreatitis. If pancreatitis is suspected, ZITUVIMET XR should promptly be discontinued and appropriate management should be initiated. It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using ZITUVIMET XR.
+An association between dipeptidyl peptidase-4 (DPP-4) inhibitor treatment and heart failure has been observed in cardiovascular outcomes trials for two other members of the DPP-4 inhibitor class. These trials evaluated patients with type 2 diabetes mellitus and atherosclerotic cardiovascular disease.
+Consider the risks and benefits of ZITUVIMET XR prior to initiating treatment in patients at risk for heart failure, such as those with a prior history of heart failure and a history of renal impairment, and observe these patients for signs and symptoms of heart failure during therapy. Advise patients of the characteristic symptoms of heart failure and to immediately report such symptoms. If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of ZITUVIMET XR.
+There have been postmarketing reports of worsening renal function in patients taking sitagliptin with or without metformin, including acute renal failure, sometimes requiring dialysis. Before initiation of therapy with ZITUVIMET XR and at least annually thereafter, renal function should be assessed. In patients in whom development of renal dysfunction is anticipated, particularly in elderly patients, renal function should be assessed more frequently and ZITUVIMET XR discontinued if evidence of renal impairment is present. ZITUVIMET XR is contraindicated in patients with severe renal impairment
+In controlled clinical trials of metformin of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B
+ZITUVIMET XR may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue (e.g., sulfonylurea) [
+There have been postmarketing reports of serious hypersensitivity reactions in patients treated with sitagliptin, one of the components of ZITUVIMET XR. These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome. Onset of these reactions occurred within the first 3 months after initiation of treatment with sitagliptin, with some reports occurring after the first dose. If a hypersensitivity reaction is suspected, discontinue ZITUVIMET XR, assess for other potential causes for the event, and institute alternative treatment for diabetes
+Angioedema has also been reported with other DPP-4 inhibitors Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with ZITUVIMET XR.
+There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors. The time to onset of symptoms following initiation of drug therapy varied from one day to years. Patients experienced relief of symptoms upon discontinuation of the medication. A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor. Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
+Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use. In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor. Tell patients to report development of blisters or erosions while receiving ZITUVIMET XR. If bullous pemphigoid is suspected, ZITUVIMET XR should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
+
+
+=== 5.1 LACTIC ACIDOSIS ===
+
+There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases. These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypothermia, hypotension and resistant bradyarrhythmias have occurred with severe acidosis. Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/Liter), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate/pyruvate ratio; metformin plasma levels were generally >5 mcg/mL. Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
+If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of ZITUVIMET XR. In ZITUVIMET XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin HCl is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions). Hemodialysis has often resulted in reversal of symptoms and recovery.
+Educate patients and their families about the symptoms of lactic acidosis, and if these symptoms occur instruct them to discontinue ZITUVIMET XR and report these symptoms to their health care provider.
+For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
+
+The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment. The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney. Clinical recommendations based upon the patient's renal function include
+
+The concomitant use of ZITUVIMET XR with specific drugs may increase the risk of metformin-associated lactic acidosis: those that impair renal function, result in significant hemodynamic change, interfere with acid-base balance or increase metformin accumulation
+
+The risk of metformin-associated lactic acidosis increases with the patient's age because elderly patients have a greater likelihood of having hepatic, renal, or cardiac impairment than younger patients. Assess renal function more frequently in elderly patients
+
+Administration of intravascular iodinated contrast agents in metformin-treated patients has led to an acute decrease in renal function and the occurrence of lactic acidosis. Stop ZITUVIMET XR at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m
+
+Withholding of food and fluids during surgical or other procedures may increase the risk for volume depletion, hypotension and renal impairment. ZITUVIMET XR should be temporarily discontinued while patients have restricted food and fluid intake.
+
+Several of the postmarketing cases of metformin-associated lactic acidosis occurred in the setting of acute congestive heart failure (particularly when accompanied by hypoperfusion and hypoxemia). Cardiovascular collapse (shock), acute myocardial infarction, sepsis, and other conditions associated with hypoxemia have been associated with lactic acidosis and may also cause prerenal azotemia. When such events occur, discontinue ZITUVIMET XR.
+
+Alcohol potentiates the effect of metformin on lactate metabolism and this may increase the risk of metformin-associated lactic acidosis. Warn patients against excessive alcohol intake while receiving ZITUVIMET XR.
+
+Patients with hepatic impairment have developed with cases of metformin-associated lactic acidosis. This may be due to impaired lactate clearance resulting in higher lactate blood levels. Therefore, avoid use of ZITUVIMET XR in patients with clinical or laboratory evidence of hepatic disease.
+
+
+=== 5.2 PANCREATITIS ===
+
+There have been postmarketing reports of acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, in patients taking sitagliptin with or without metformin. After initiation of ZITUVIMET XR, patients should be observed carefully for signs and symptoms of pancreatitis. If pancreatitis is suspected, ZITUVIMET XR should promptly be discontinued and appropriate management should be initiated. It is unknown whether patients with a history of pancreatitis are at increased risk for the development of pancreatitis while using ZITUVIMET XR.
+
+
+=== 5.3 HEART FAILURE ===
+
+An association between dipeptidyl peptidase-4 (DPP-4) inhibitor treatment and heart failure has been observed in cardiovascular outcomes trials for two other members of the DPP-4 inhibitor class. These trials evaluated patients with type 2 diabetes mellitus and atherosclerotic cardiovascular disease.
+Consider the risks and benefits of ZITUVIMET XR prior to initiating treatment in patients at risk for heart failure, such as those with a prior history of heart failure and a history of renal impairment, and observe these patients for signs and symptoms of heart failure during therapy. Advise patients of the characteristic symptoms of heart failure and to immediately report such symptoms. If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of ZITUVIMET XR.
+
+
+=== 5.4 ACUTE RENAL FAILURE ===
+
+There have been postmarketing reports of worsening renal function in patients taking sitagliptin with or without metformin, including acute renal failure, sometimes requiring dialysis. Before initiation of therapy with ZITUVIMET XR and at least annually thereafter, renal function should be assessed. In patients in whom development of renal dysfunction is anticipated, particularly in elderly patients, renal function should be assessed more frequently and ZITUVIMET XR discontinued if evidence of renal impairment is present. ZITUVIMET XR is contraindicated in patients with severe renal impairment
+
+
+=== 5.5 VITAMIN B ===
+
+In controlled clinical trials of metformin of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B
+
+
+=== 5.6 HYPOGLYCEMIA WITH CONCOMITANT USE WITH INSULIN OR INSULIN SECRETAGOGUES ===
+
+ZITUVIMET XR may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue (e.g., sulfonylurea) [
+
+
+=== 5.7 HYPERSENSITIVITY REACTIONS ===
+
+There have been postmarketing reports of serious hypersensitivity reactions in patients treated with sitagliptin, one of the components of ZITUVIMET XR. These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome. Onset of these reactions occurred within the first 3 months after initiation of treatment with sitagliptin, with some reports occurring after the first dose. If a hypersensitivity reaction is suspected, discontinue ZITUVIMET XR, assess for other potential causes for the event, and institute alternative treatment for diabetes
+Angioedema has also been reported with other DPP-4 inhibitors Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with ZITUVIMET XR.
+
+
+=== 5.8 SEVERE AND DISABLING ARTHRALGIA ===
+
+There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors. The time to onset of symptoms following initiation of drug therapy varied from one day to years. Patients experienced relief of symptoms upon discontinuation of the medication. A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor. Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
+
+
+=== 5.9 BULLOUS PEMPHIGOID ===
+
+Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use. In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor. Tell patients to report development of blisters or erosions while receiving ZITUVIMET XR. If bullous pemphigoid is suspected, ZITUVIMET XR should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
+
+
+=== 6 ADVERSE REACTIONS ===
+
+The following adverse reactions are also discussed elsewhere in the prescribing information:
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+Table 1 summarizes the most common (≥5% of patients) adverse reactions reported in a 24-week placebo-controlled factorial trial in which sitagliptin and metformin immediate-release were coadministered to patients with type 2 diabetes mellitus inadequately controlled on diet and exercise.
+
+
+In a 24-week placebo-controlled trial of sitagliptin 100 mg administered once daily added to a twice daily metformin immediate-release regimen, there were no adverse reactions reported in ≥5% of patients and more commonly than in patients given placebo. Discontinuation of therapy due to clinical adverse reactions was similar to the placebo treatment group (sitagliptin and metformin immediate-release, 1.9%; placebo and metformin immediate-release, 2.5%).
+
+The incidences of pre-selected gastrointestinal adverse experiences in patients treated with sitagliptin and metformin immediate-release were similar to those reported for patients treated with metformin immediate-release alone. See Table 2.
+
+In a 24-week placebo-controlled trial of sitagliptin 100 mg as add-on therapy in patients with type 2 diabetes mellitus inadequately controlled on metformin immediate-release and glimepiride (sitagliptin, N=116; placebo, N=113), the adverse reactions reported in
+
+In a placebo-controlled trial of sitagliptin 100 mg as add-on therapy in patients with type 2 diabetes mellitus inadequately controlled on metformin immediate-release and rosiglitazone (sitagliptin, N=181; placebo, N=97), the adverse reactions reported through Week 18 in
+
+In a 24-week placebo-controlled trial of sitagliptin 100 mg as add-on therapy in patients with type 2 diabetes mellitus inadequately controlled on metformin immediate-release and insulin (sitagliptin, N=229; placebo, N=233), the only adverse reaction reported regardless of investigator assessment of causality in
+
+In the above trials (N=5), adverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required although most (77%) reports of hypoglycemia were accompanied by a blood glucose measurement ≤70 mg/dL. When the combination of sitagliptin and metformin immediate-release was coadministered with a sulfonylurea or with insulin, the percentage of patients reporting at least one adverse reaction of hypoglycemia was higher than that observed with placebo and metformin immediate-release coadministered with a sulfonylurea or with insulin (Table 3).
+The overall incidence of reported adverse reactions of hypoglycemia in patients with type 2 diabetes mellitus inadequately controlled on diet and exercise was 0.6% in patients given placebo, 0.6% in patients given sitagliptin alone, 0.8% in patients given metformin immediate-release alone, and 1.6% in patients given sitagliptin in combination with metformin immediate-release. In patients with type 2 diabetes mellitus inadequately controlled on metformin immediate-release alone, the overall incidence of adverse reactions of hypoglycemia was 1.3% in patients given add-on sitagliptin and 2.1% in patients given add-on placebo.
+In the trial of sitagliptin and add-on combination therapy with metformin immediate-release and rosiglitazone, the overall incidence of hypoglycemia was 2.2% in patients given add-on sitagliptin and 0% in patients given add-on placebo through Week 18. Through Week 54, the overall incidence of hypoglycemia was 3.9% in patients given add-on sitagliptin and 1% in patients given add-on placebo.
+In an additional 30-week placebo-controlled trial of patients with type 2 diabetes mellitus inadequately controlled with metformin comparing the maintenance of sitagliptin 100 mg versus withdrawal of sitagliptin when initiating basal insulin therapy, the event rate and incidence of documented symptomatic hypoglycemia (blood glucose measurement ≤70 mg/dL) did not differ between the sitagliptin and placebo groups.
+
+With the combination of sitagliptin and metformin immediate-release, no clinically meaningful changes in vital signs or in electrocardiogram parameters (ECG) (including the QTc interval) were observed.
+
+In a pooled analysis of 19 double-blind clinical trials that included data from 10,246 patients randomized to receive sitagliptin 100 mg/day (N=5,429) or corresponding (active or placebo) control (N=4,817), the incidence of acute pancreatitis was 0.1 per 100 patient-years in each group (4 patients with an event in 4,708 patient-years for sitagliptin and 4 patients with an event in 3,942 patient-years for control).
+
+The most common adverse experience in sitagliptin monotherapy reported in ≥5% of patients and more commonly than in patients given placebo was nasopharyngitis.
+
+In a 24-week clinical trial in which extended-release metformin or placebo was added to glyburide therapy, the most common (>5% and greater than placebo) adverse reactions in the combined treatment group were hypoglycemia (13.7% vs. 4.9%), diarrhea (12.5% vs. 5.6%), and nausea (6.7% vs. 4.2%).
+
+
+The incidence of laboratory adverse reactions was similar in patients treated with sitagliptin and metformin immediate-release (7.6%) compared to patients treated with placebo and metformin (8.7%). In most but not all trials, a small increase in white blood cell count (approximately 200 cells/microL difference in WBC vs. placebo; mean baseline WBC approximately 6,600 cells/microL) was observed due to a small increase in neutrophils. This change in laboratory parameters is not considered to be clinically relevant.
+
+In controlled clinical trials of metformin of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B
+Additional adverse reactions have been identified during postapproval use of sitagliptin with metformin, sitagliptin, or metformin. Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+
+
+
+
+
+
+=== 6.1 CLINICAL TRIALS EXPERIENCE ===
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+Table 1 summarizes the most common (≥5% of patients) adverse reactions reported in a 24-week placebo-controlled factorial trial in which sitagliptin and metformin immediate-release were coadministered to patients with type 2 diabetes mellitus inadequately controlled on diet and exercise.
+
+
+In a 24-week placebo-controlled trial of sitagliptin 100 mg administered once daily added to a twice daily metformin immediate-release regimen, there were no adverse reactions reported in ≥5% of patients and more commonly than in patients given placebo. Discontinuation of therapy due to clinical adverse reactions was similar to the placebo treatment group (sitagliptin and metformin immediate-release, 1.9%; placebo and metformin immediate-release, 2.5%).
+
+The incidences of pre-selected gastrointestinal adverse experiences in patients treated with sitagliptin and metformin immediate-release were similar to those reported for patients treated with metformin immediate-release alone. See Table 2.
+
+In a 24-week placebo-controlled trial of sitagliptin 100 mg as add-on therapy in patients with type 2 diabetes mellitus inadequately controlled on metformin immediate-release and glimepiride (sitagliptin, N=116; placebo, N=113), the adverse reactions reported in
+
+In a placebo-controlled trial of sitagliptin 100 mg as add-on therapy in patients with type 2 diabetes mellitus inadequately controlled on metformin immediate-release and rosiglitazone (sitagliptin, N=181; placebo, N=97), the adverse reactions reported through Week 18 in
+
+In a 24-week placebo-controlled trial of sitagliptin 100 mg as add-on therapy in patients with type 2 diabetes mellitus inadequately controlled on metformin immediate-release and insulin (sitagliptin, N=229; placebo, N=233), the only adverse reaction reported regardless of investigator assessment of causality in
+
+In the above trials (N=5), adverse reactions of hypoglycemia were based on all reports of symptomatic hypoglycemia; a concurrent glucose measurement was not required although most (77%) reports of hypoglycemia were accompanied by a blood glucose measurement ≤70 mg/dL. When the combination of sitagliptin and metformin immediate-release was coadministered with a sulfonylurea or with insulin, the percentage of patients reporting at least one adverse reaction of hypoglycemia was higher than that observed with placebo and metformin immediate-release coadministered with a sulfonylurea or with insulin (Table 3).
+The overall incidence of reported adverse reactions of hypoglycemia in patients with type 2 diabetes mellitus inadequately controlled on diet and exercise was 0.6% in patients given placebo, 0.6% in patients given sitagliptin alone, 0.8% in patients given metformin immediate-release alone, and 1.6% in patients given sitagliptin in combination with metformin immediate-release. In patients with type 2 diabetes mellitus inadequately controlled on metformin immediate-release alone, the overall incidence of adverse reactions of hypoglycemia was 1.3% in patients given add-on sitagliptin and 2.1% in patients given add-on placebo.
+In the trial of sitagliptin and add-on combination therapy with metformin immediate-release and rosiglitazone, the overall incidence of hypoglycemia was 2.2% in patients given add-on sitagliptin and 0% in patients given add-on placebo through Week 18. Through Week 54, the overall incidence of hypoglycemia was 3.9% in patients given add-on sitagliptin and 1% in patients given add-on placebo.
+In an additional 30-week placebo-controlled trial of patients with type 2 diabetes mellitus inadequately controlled with metformin comparing the maintenance of sitagliptin 100 mg versus withdrawal of sitagliptin when initiating basal insulin therapy, the event rate and incidence of documented symptomatic hypoglycemia (blood glucose measurement ≤70 mg/dL) did not differ between the sitagliptin and placebo groups.
+
+With the combination of sitagliptin and metformin immediate-release, no clinically meaningful changes in vital signs or in electrocardiogram parameters (ECG) (including the QTc interval) were observed.
+
+In a pooled analysis of 19 double-blind clinical trials that included data from 10,246 patients randomized to receive sitagliptin 100 mg/day (N=5,429) or corresponding (active or placebo) control (N=4,817), the incidence of acute pancreatitis was 0.1 per 100 patient-years in each group (4 patients with an event in 4,708 patient-years for sitagliptin and 4 patients with an event in 3,942 patient-years for control).
+
+The most common adverse experience in sitagliptin monotherapy reported in ≥5% of patients and more commonly than in patients given placebo was nasopharyngitis.
+
+In a 24-week clinical trial in which extended-release metformin or placebo was added to glyburide therapy, the most common (>5% and greater than placebo) adverse reactions in the combined treatment group were hypoglycemia (13.7% vs. 4.9%), diarrhea (12.5% vs. 5.6%), and nausea (6.7% vs. 4.2%).
+
+
+The incidence of laboratory adverse reactions was similar in patients treated with sitagliptin and metformin immediate-release (7.6%) compared to patients treated with placebo and metformin (8.7%). In most but not all trials, a small increase in white blood cell count (approximately 200 cells/microL difference in WBC vs. placebo; mean baseline WBC approximately 6,600 cells/microL) was observed due to a small increase in neutrophils. This change in laboratory parameters is not considered to be clinically relevant.
+
+In controlled clinical trials of metformin of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B
+
+
+=== 6.2 POSTMARKETING EXPERIENCE ===
+
+Additional adverse reactions have been identified during postapproval use of sitagliptin with metformin, sitagliptin, or metformin. Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+
+
+
+
+
+
+
+
+=== 7 DRUG INTERACTIONS ===
+
+Table 4 presents clinically significant drug interactions with ZITUVIMET XR:
+
+
+=== 8 USE IN SPECIFIC POPULATIONS ===
+
+
+The limited available data with ZITUVIMET XR in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage. Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk
+The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with a hemoglobin A1c (A1c) >7% and has been reported to be as high as 20 to 25% in women with a A1C >10%. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery, and delivery complications. Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
+
+
+Published data from post-marketing studies do not report a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin is used during pregnancy. However, these studies cannot definitely establish the absence of any risk because of methodological limitations, including small sample size and inconsistent comparator groups.
+
+
+No animal reproduction studies were conducted with the coadministration of sitagliptin and metformin.
+
+In embryo-fetal development studies, sitagliptin administered to pregnant rats and rabbits during organogenesis (gestation day 6 to 20) did not adversely affect developmental outcomes at oral doses up to 250 mg/kg (30-times the 100 mg clinical dose) and 125 mg/kg (20-times the 100 mg clinical dose), respectively, based on AUC. Higher doses in rats associated with maternal toxicity increased the incidence of rib malformations in offspring at 1,000 mg/kg, or approximately 100-times the clinical dose, based on AUC. Placental transfer of sitagliptin was observed in pregnant rats and rabbits.
+Sitagliptin administered to female rats from gestation day 6 to lactation day 21 caused no functional or behavioral toxicity in offspring of rats at doses up to 1,000 mg/kg.
+
+Metformin did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis. This represents an exposure of about 2- and 6-times a 2,000 mg clinical dose based on body surface area (mg/m
+
+There is no information regarding the presence of ZITUVIMET XR in human milk, the effects on the breastfed infant, or the effects on milk production. Limited published studies report that metformin is present in human milk
+
+
+Sitagliptin is secreted in the milk of lactating rats at a milk to plasma ratio of 4:1.
+
+Published clinical lactation studies report that metformin is present in human milk, which resulted in infant doses approximately 0.11% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 0.13 and 1. However, the studies were not designed to definitely establish the risk of use of metformin during lactation because of small sample size and limited adverse event data collected in infants.
+Discuss the potential for unintended pregnancy with premenopausal women as therapy with metformin may result in ovulation in some anovulatory women.
+The safety and effectiveness of ZITUVIMET XR have not been established in pediatric patients.
+Three 20-week double-blind, placebo-controlled studies each with 34-week extensions were conducted to evaluate the efficacy and safety of sitagliptin in 410 pediatric patients aged 10 to 17 years with inadequately controlled type 2 diabetes mellitus, with or without insulin therapy (HbA1c 6.5 to 10% for patients not on insulin, HbA1c 7 to 10% for patients on insulin). At study entry, patients in study 1 were not treated with oral antihyperglycemic agents; patients in studies 2 and 3 were on maximally tolerated metformin therapy. The primary efficacy endpoint was the change from baseline in HbA1c after 20 weeks of therapy. The pre-specified primary efficacy analyses included data from study 1 and pooled data from studies 2 and 3, regardless of glycemic rescue or treatment discontinuation.
+In both efficacy analyses, the effect of treatment with sitagliptin was not significantly different from placebo. In study 1, the mean baseline HbA1c was 7.5%, and 12% of patients were on insulin therapy. At week 20, the change from baseline in HbA1c in patients treated with sitagliptin (N=95) was 0.06% compared to 0.23% in patients treated with placebo (N=95), a difference of -0.17% (95% CI: -0.62, 0.28). In studies 2 and 3, the mean baseline HbA1c was 8%, 15% of patients were on insulin and 72% were on metformin HCl doses of greater than 1,500 mg daily. At week 20, the change from baseline in HbA1c in patients treated with sitagliptin (N=107) was -0.23% compared to 0.09% in patients treated with placebo (N=113), a difference of -0.33% (95% CI: -0.70, 0.05).
+
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and concomitant disease or other drug therapy and the higher risk of lactic acidosis. Renal function should be assessed more frequently in elderly patients
+
+Of the total number of subjects (N=3,884) in clinical studies of sitagliptin, 725 patients were 65 years and over, while 61 patients were 75 years and over. No overall differences in safety or effectiveness of sitagliptin have been observed between subjects 65 years and over and younger.
+
+Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
+
+The dose of the sitagliptin component should be limited to 50 mg once daily if eGFR falls below 45 mL/min/1.73 m
+
+Sitagliptin is excreted by the kidney, and sitagliptin exposure is increased in patients with renal impairment
+
+Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
+Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis. ZITUVIMET XR is not recommended in patients with hepatic impairment
+
+
+=== 8.1 PREGNANCY ===
+
+
+The limited available data with ZITUVIMET XR in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage. Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk
+The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with a hemoglobin A1c (A1c) >7% and has been reported to be as high as 20 to 25% in women with a A1C >10%. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery, and delivery complications. Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
+
+
+Published data from post-marketing studies do not report a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin is used during pregnancy. However, these studies cannot definitely establish the absence of any risk because of methodological limitations, including small sample size and inconsistent comparator groups.
+
+
+No animal reproduction studies were conducted with the coadministration of sitagliptin and metformin.
+
+In embryo-fetal development studies, sitagliptin administered to pregnant rats and rabbits during organogenesis (gestation day 6 to 20) did not adversely affect developmental outcomes at oral doses up to 250 mg/kg (30-times the 100 mg clinical dose) and 125 mg/kg (20-times the 100 mg clinical dose), respectively, based on AUC. Higher doses in rats associated with maternal toxicity increased the incidence of rib malformations in offspring at 1,000 mg/kg, or approximately 100-times the clinical dose, based on AUC. Placental transfer of sitagliptin was observed in pregnant rats and rabbits.
+Sitagliptin administered to female rats from gestation day 6 to lactation day 21 caused no functional or behavioral toxicity in offspring of rats at doses up to 1,000 mg/kg.
+
+Metformin did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis. This represents an exposure of about 2- and 6-times a 2,000 mg clinical dose based on body surface area (mg/m
+
+
+=== 8.2 LACTATION ===
+
+
+There is no information regarding the presence of ZITUVIMET XR in human milk, the effects on the breastfed infant, or the effects on milk production. Limited published studies report that metformin is present in human milk
+
+
+Sitagliptin is secreted in the milk of lactating rats at a milk to plasma ratio of 4:1.
+
+Published clinical lactation studies report that metformin is present in human milk, which resulted in infant doses approximately 0.11% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 0.13 and 1. However, the studies were not designed to definitely establish the risk of use of metformin during lactation because of small sample size and limited adverse event data collected in infants.
+
+
+=== 8.3 FEMALES AND MALES OF REPRODUCTIVE POTENTIAL ===
+
+Discuss the potential for unintended pregnancy with premenopausal women as therapy with metformin may result in ovulation in some anovulatory women.
+
+
+=== 8.4 PEDIATRIC USE ===
+
+The safety and effectiveness of ZITUVIMET XR have not been established in pediatric patients.
+Three 20-week double-blind, placebo-controlled studies each with 34-week extensions were conducted to evaluate the efficacy and safety of sitagliptin in 410 pediatric patients aged 10 to 17 years with inadequately controlled type 2 diabetes mellitus, with or without insulin therapy (HbA1c 6.5 to 10% for patients not on insulin, HbA1c 7 to 10% for patients on insulin). At study entry, patients in study 1 were not treated with oral antihyperglycemic agents; patients in studies 2 and 3 were on maximally tolerated metformin therapy. The primary efficacy endpoint was the change from baseline in HbA1c after 20 weeks of therapy. The pre-specified primary efficacy analyses included data from study 1 and pooled data from studies 2 and 3, regardless of glycemic rescue or treatment discontinuation.
+In both efficacy analyses, the effect of treatment with sitagliptin was not significantly different from placebo. In study 1, the mean baseline HbA1c was 7.5%, and 12% of patients were on insulin therapy. At week 20, the change from baseline in HbA1c in patients treated with sitagliptin (N=95) was 0.06% compared to 0.23% in patients treated with placebo (N=95), a difference of -0.17% (95% CI: -0.62, 0.28). In studies 2 and 3, the mean baseline HbA1c was 8%, 15% of patients were on insulin and 72% were on metformin HCl doses of greater than 1,500 mg daily. At week 20, the change from baseline in HbA1c in patients treated with sitagliptin (N=107) was -0.23% compared to 0.09% in patients treated with placebo (N=113), a difference of -0.33% (95% CI: -0.70, 0.05).
+
+
+=== 8.5 GERIATRIC USE ===
+
+
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and concomitant disease or other drug therapy and the higher risk of lactic acidosis. Renal function should be assessed more frequently in elderly patients
+
+Of the total number of subjects (N=3,884) in clinical studies of sitagliptin, 725 patients were 65 years and over, while 61 patients were 75 years and over. No overall differences in safety or effectiveness of sitagliptin have been observed between subjects 65 years and over and younger.
+
+Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
+
+
+=== 8.6 RENAL IMPAIRMENT ===
+
+
+The dose of the sitagliptin component should be limited to 50 mg once daily if eGFR falls below 45 mL/min/1.73 m
+
+Sitagliptin is excreted by the kidney, and sitagliptin exposure is increased in patients with renal impairment
+
+Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
+
+
+=== 8.7 HEPATIC IMPAIRMENT ===
+
+Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis. ZITUVIMET XR is not recommended in patients with hepatic impairment
+
+
+=== 10 OVERDOSAGE ===
+
+In the event of overdose with ZITUVIMET XR, consider contacting the Poison Help Line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations. Employ supportive measures dictated by the patient's clinical status. Per clinical judgement, consider removal of unabsorbed material from the gastrointestinal tract, and clinical monitoring (including obtaining an ECG).
+Sitagliptin is modestly dialyzable. In clinical studies, approximately 13.5% of the dose was removed over a 3- to 4-hour hemodialysis session. Prolonged hemodialysis may be considered if clinically appropriate. It is not known if sitagliptin is dialyzable by peritoneal dialysis.
+Overdose of metformin has occurred, including ingestion of amounts greater than 50 grams. Hypoglycemia was reported in approximately 10% of cases, but no causal association with metformin has been established. Lactic acidosis has been reported in approximately 32% of metformin overdose cases
+
+
+=== 11 DESCRIPTION ===
+
+ZITUVIMET XR tablets for oral use contain two antihyperglycemic medications: sitagliptin and metformin hydrochloride.
+
+Sitagliptin is an orally-active inhibitor of the DPP-4 enzyme. Sitagliptin free base drug substance is used to manufacture ZITUVIMET XR. Sitagliptin free base is described chemically as 7-[(3R)-3-amino-1-oxo-4-(2,4,5-trifluorophenyl)butyl]-5,6,7,8-tetrahydro-3-(trifluoromethyl)-1,2,4-triazolo[4,3-α]pyrazine with an empirical formula of C
+Sitagliptin free base is a white to off-white, non-hygroscopic powder. It is soluble in methanol and slightly soluble in water.
+
+Metformin HCl (
+
+ZITUVIMET XR is available as film-coated tablets containing:
+All doses of ZITUVIMET XR contain the following inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, dibasic calcium phosphate anhydrous, ferric oxide yellow, hypromellose, magnesium stearate, malic acid, microcrystalline cellulose, povidone, pregelatinized starch (maize) and sodium stearyl fumarate. In addition, the film-coating for all doses contains the following inactive ingredients: polyethylene glycol, polyvinyl alcohol-partially hydrolyzed, iron oxide yellow, talc and titanium dioxide. Additionally, ZITUVIMET XR 50 mg/500 mg and 100 mg/1,000 mg tablets film-coating contain the inactive ingredient red iron oxide and 50 mg/1,000 mg and 100 mg/1,000 mg tablets film-coating contain the FD&C yellow#6 Aluminum Lake.
+
+
+=== 12 CLINICAL PHARMACOLOGY ===
+
+
+ZITUVIMET XR tablets combine two antihyperglycemic agents: sitagliptin and metformin extended-release.
+
+Sitagliptin is a DPP-4 inhibitor, which is believed to exert its actions in patients with type 2 diabetes mellitus by slowing the inactivation of incretin hormones. Concentrations of the active intact hormones are increased by sitagliptin, thereby increasing and prolonging the action of these hormones. Incretin hormones, including glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP), are released by the intestine throughout the day, and levels are increased in response to a meal. These hormones are rapidly inactivated by the enzyme DPP-4. The incretins are part of an endogenous system involved in the physiologic regulation of glucose homeostasis. When blood glucose concentrations are normal or elevated, GLP-1 and GIP increase insulin synthesis and release from pancreatic beta cells by intracellular signaling pathways involving cyclic AMP. GLP-1 also lowers glucagon secretion from pancreatic alpha cells, leading to reduced hepatic glucose production. By increasing and prolonging active incretin levels, sitagliptin increases insulin release and decreases glucagon levels in the circulation in a glucose-dependent manner. Sitagliptin demonstrates selectivity for DPP-4 and does not inhibit DPP-8 or DPP-9 activity
+
+Metformin is a biguanide that improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose. Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization. With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may decrease.
+
+In patients with type 2 diabetes mellitus, administration of sitagliptin led to inhibition of DPP-4 enzyme activity for a 24-hour period. After an oral glucose load or a meal, this DPP-4 inhibition resulted in a 2- to 3-fold increase in circulating levels of active GLP-1 and GIP, decreased glucagon concentrations, and increased responsiveness of insulin release to glucose, resulting in higher C-peptide and insulin concentrations. The rise in insulin with the decrease in glucagon was associated with lower fasting glucose concentrations and reduced glucose excursion following an oral glucose load or a meal. In studies with healthy subjects, sitagliptin did not lower blood glucose or cause hypoglycemia.
+
+In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents. Coadministration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations. Sitagliptin, but not metformin, increased active GIP concentrations. It is unclear what these findings mean for changes in glycemic control in patients with type 2 diabetes mellitus.
+
+In a randomized, placebo-controlled crossover study, 79 healthy subjects were administered a single oral dose of sitagliptin 100 mg, sitagliptin 800 mg (8 times the recommended dose), and placebo. At the recommended dose of 100 mg, there was no effect on the QTc interval obtained at the peak plasma concentration, or at any other time during the study. Following the 800-mg dose, the maximum increase in the placebo-corrected mean change in QTc from baseline at 3 hours postdose was 8.0 msec. This increase is not considered to be clinically significant. At the 800-mg dose, peak sitagliptin plasma concentrations were approximately 11 times higher than the peak concentrations following a 100-mg dose.
+In patients with type 2 diabetes mellitus administered sitagliptin 100 mg (N=81) or sitagliptin 200 mg (N=63) daily, there were no meaningful changes in QTc interval based on ECG data obtained at the time of expected peak plasma concentration.
+
+After administration of two ZITUVIMET XR 50 mg/1,000 mg tablets once daily with the evening meal for 7 days in healthy adult subjects, steady-state for sitagliptin and metformin is reached by Day 4 and 5, respectively.
+
+The pharmacokinetics of sitagliptin have been extensively characterized in healthy subjects and patients with type 2 diabetes mellitus. Following a single oral 100-mg dose to healthy volunteers, mean plasma AUC of sitagliptin was 8.52 µM•hr, C
+
+
+After administration of ZITUVIMET XR tablets once daily, the median T
+
+After administration of ZITUVIMET XR tablets with a high-fat breakfast, the AUC for sitagliptin was not altered. The mean C
+
+After oral administration of a 100 mg dose to healthy subjects, sitagliptin was rapidly absorbed with peak plasma concentrations (median T
+
+Coadministration of a high-fat meal with sitagliptin had no effect on the pharmacokinetics of sitagliptin.
+
+The absolute bioavailability of a metformin HCl 500-mg tablet given under fasting conditions is approximately 50% to 60%. Studies using single oral doses of metformin HCl tablets 500 mg to 1,500 mg, and 850 mg to 2,550 mg (approximately 1.3 times the maximum recommended daily dosage), indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
+
+Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower mean peak plasma concentration (C
+
+
+The mean volume of distribution at steady state following a single 100-mg intravenous dose of sitagliptin to healthy subjects is approximately 198 liters. The fraction of sitagliptin reversibly bound to plasma proteins is low (38%).
+
+The apparent volume of distribution (V/F) of metformin following single oral doses of immediate-release metformin HCl tablets 850 mg averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins. Metformin partitions into erythrocytes, most likely as a function of time. At usual clinical doses and dosing schedules of metformin HCl tablets, steady-state plasma concentrations of metformin are reached within 24 to 48 hours and are generally <1 mcg/mL.
+
+
+Approximately 79% of sitagliptin is excreted unchanged in the urine with metabolism being a minor pathway of elimination. The apparent terminal t
+
+Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours. In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
+
+
+Following a [
+
+Intravenous single-dose studies in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) or biliary excretion. Metabolism studies with extended-release metformin tablets have not been conducted.
+
+
+Following administration of an oral [
+Elimination of sitagliptin occurs primarily via renal excretion and involves active tubular secretion. Sitagliptin is a substrate for human organic anion transporter-3 (hOAT-3), which may be involved in the renal elimination of sitagliptin. The clinical relevance of hOAT-3 in sitagliptin transport has not been established. Sitagliptin is also a substrate of p-glycoprotein (P-gp), which may also be involved in mediating the renal elimination of sitagliptin. However, cyclosporine, a P-gp inhibitor, did not reduce the renal clearance of sitagliptin.
+
+Elimination of metformin occurs primarily via renal excretion. Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
+
+
+
+Studies characterizing the pharmacokinetics of sitagliptin and metformin after administration of ZITUVIMET XR in renally impaired patients have not been performed
+
+An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment with eGFR of 30 to less than 45 mL/min/1.73 m
+
+In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased
+
+
+Studies characterizing the pharmacokinetics of sitagliptin and metformin after administration of ZITUVIMET XR in patients with hepatic impairment have not been performed.
+
+In patients with moderate hepatic impairment (Child-Pugh score 7 to 9), mean AUC and C
+
+No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment.
+
+
+Based on a population pharmacokinetic analysis or a composite analysis of available pharmacokinetic data, BMI, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of sitagliptin. When the effects of age on renal function are taken into account, age alone did not have a clinically meaningful impact on the pharmacokinetics of sitagliptin based on a population pharmacokinetic analysis. Elderly subjects (65 to 80 years) had approximately 19% higher plasma concentrations of sitagliptin compared to younger subjects.
+
+Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and C
+Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes mellitus when analyzed according to gender. Similarly, in controlled clinical studies in patients with type 2 diabetes mellitus, the antihyperglycemic effect of metformin was comparable in males and females.
+No studies of metformin pharmacokinetic parameters according to race have been performed. In controlled clinical studies of metformin in patients with type 2 diabetes mellitus, the antihyperglycemic effect was comparable in Whites (n=249), Black or African Americans (n=51), and Hispanic or Latino ethnicity (n=24).
+
+
+Coadministration of multiple doses of sitagliptin (50 mg) and metformin HCl (1,000 mg) given twice daily did not meaningfully alter the pharmacokinetics of either sitagliptin or metformin in patients with type 2 diabetes mellitus.
+Pharmacokinetic drug interaction studies with ZITUVIMET XR have not been performed; however, such studies have been conducted with the individual components of ZITUVIMET XR (sitagliptin and metformin extended-release).
+
+
+Sitagliptin is not an inhibitor of CYP isozymes CYP3A4, 2C8, 2C9, 2D6, 1A2, 2C19 or 2B6, and is not an inducer of CYP3A4. Sitagliptin is a P-gp substrate, but does not inhibit P-gp mediated transport of digoxin. Based on these results, sitagliptin is considered unlikely to cause interactions with other drugs that utilize these pathways.
+Sitagliptin is not extensively bound to plasma proteins. Therefore, the propensity of sitagliptin to be involved in clinically meaningful drug-drug interactions mediated by plasma protein binding displacement is very low.
+
+
+In clinical studies, sitagliptin did not meaningfully alter the pharmacokinetics of metformin, glyburide, simvastatin, rosiglitazone, digoxin, warfarin, or an oral contraception (ethinyl estradiol and norethindrone) (Table 5), providing
+
+
+
+
+
+
+
+Clinical data described below suggest that sitagliptin is not susceptible to clinically meaningful interactions by coadministered medications (Table 6).
+
+
+
+
+Metformin
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== 12.1 MECHANISM OF ACTION ===
+
+
+ZITUVIMET XR tablets combine two antihyperglycemic agents: sitagliptin and metformin extended-release.
+
+Sitagliptin is a DPP-4 inhibitor, which is believed to exert its actions in patients with type 2 diabetes mellitus by slowing the inactivation of incretin hormones. Concentrations of the active intact hormones are increased by sitagliptin, thereby increasing and prolonging the action of these hormones. Incretin hormones, including glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP), are released by the intestine throughout the day, and levels are increased in response to a meal. These hormones are rapidly inactivated by the enzyme DPP-4. The incretins are part of an endogenous system involved in the physiologic regulation of glucose homeostasis. When blood glucose concentrations are normal or elevated, GLP-1 and GIP increase insulin synthesis and release from pancreatic beta cells by intracellular signaling pathways involving cyclic AMP. GLP-1 also lowers glucagon secretion from pancreatic alpha cells, leading to reduced hepatic glucose production. By increasing and prolonging active incretin levels, sitagliptin increases insulin release and decreases glucagon levels in the circulation in a glucose-dependent manner. Sitagliptin demonstrates selectivity for DPP-4 and does not inhibit DPP-8 or DPP-9 activity
+
+Metformin is a biguanide that improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose. Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization. With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may decrease.
+
+
+=== 12.2 PHARMACODYNAMICS ===
+
+
+In patients with type 2 diabetes mellitus, administration of sitagliptin led to inhibition of DPP-4 enzyme activity for a 24-hour period. After an oral glucose load or a meal, this DPP-4 inhibition resulted in a 2- to 3-fold increase in circulating levels of active GLP-1 and GIP, decreased glucagon concentrations, and increased responsiveness of insulin release to glucose, resulting in higher C-peptide and insulin concentrations. The rise in insulin with the decrease in glucagon was associated with lower fasting glucose concentrations and reduced glucose excursion following an oral glucose load or a meal. In studies with healthy subjects, sitagliptin did not lower blood glucose or cause hypoglycemia.
+
+In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents. Coadministration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations. Sitagliptin, but not metformin, increased active GIP concentrations. It is unclear what these findings mean for changes in glycemic control in patients with type 2 diabetes mellitus.
+
+In a randomized, placebo-controlled crossover study, 79 healthy subjects were administered a single oral dose of sitagliptin 100 mg, sitagliptin 800 mg (8 times the recommended dose), and placebo. At the recommended dose of 100 mg, there was no effect on the QTc interval obtained at the peak plasma concentration, or at any other time during the study. Following the 800-mg dose, the maximum increase in the placebo-corrected mean change in QTc from baseline at 3 hours postdose was 8.0 msec. This increase is not considered to be clinically significant. At the 800-mg dose, peak sitagliptin plasma concentrations were approximately 11 times higher than the peak concentrations following a 100-mg dose.
+In patients with type 2 diabetes mellitus administered sitagliptin 100 mg (N=81) or sitagliptin 200 mg (N=63) daily, there were no meaningful changes in QTc interval based on ECG data obtained at the time of expected peak plasma concentration.
+
+
+=== 12.3 PHARMACOKINETICS ===
+
+
+After administration of two ZITUVIMET XR 50 mg/1,000 mg tablets once daily with the evening meal for 7 days in healthy adult subjects, steady-state for sitagliptin and metformin is reached by Day 4 and 5, respectively.
+
+The pharmacokinetics of sitagliptin have been extensively characterized in healthy subjects and patients with type 2 diabetes mellitus. Following a single oral 100-mg dose to healthy volunteers, mean plasma AUC of sitagliptin was 8.52 µM•hr, C
+
+
+After administration of ZITUVIMET XR tablets once daily, the median T
+
+After administration of ZITUVIMET XR tablets with a high-fat breakfast, the AUC for sitagliptin was not altered. The mean C
+
+After oral administration of a 100 mg dose to healthy subjects, sitagliptin was rapidly absorbed with peak plasma concentrations (median T
+
+Coadministration of a high-fat meal with sitagliptin had no effect on the pharmacokinetics of sitagliptin.
+
+The absolute bioavailability of a metformin HCl 500-mg tablet given under fasting conditions is approximately 50% to 60%. Studies using single oral doses of metformin HCl tablets 500 mg to 1,500 mg, and 850 mg to 2,550 mg (approximately 1.3 times the maximum recommended daily dosage), indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
+
+Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower mean peak plasma concentration (C
+
+
+The mean volume of distribution at steady state following a single 100-mg intravenous dose of sitagliptin to healthy subjects is approximately 198 liters. The fraction of sitagliptin reversibly bound to plasma proteins is low (38%).
+
+The apparent volume of distribution (V/F) of metformin following single oral doses of immediate-release metformin HCl tablets 850 mg averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins. Metformin partitions into erythrocytes, most likely as a function of time. At usual clinical doses and dosing schedules of metformin HCl tablets, steady-state plasma concentrations of metformin are reached within 24 to 48 hours and are generally <1 mcg/mL.
+
+
+Approximately 79% of sitagliptin is excreted unchanged in the urine with metabolism being a minor pathway of elimination. The apparent terminal t
+
+Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours. In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
+
+
+Following a [
+
+Intravenous single-dose studies in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) or biliary excretion. Metabolism studies with extended-release metformin tablets have not been conducted.
+
+
+Following administration of an oral [
+Elimination of sitagliptin occurs primarily via renal excretion and involves active tubular secretion. Sitagliptin is a substrate for human organic anion transporter-3 (hOAT-3), which may be involved in the renal elimination of sitagliptin. The clinical relevance of hOAT-3 in sitagliptin transport has not been established. Sitagliptin is also a substrate of p-glycoprotein (P-gp), which may also be involved in mediating the renal elimination of sitagliptin. However, cyclosporine, a P-gp inhibitor, did not reduce the renal clearance of sitagliptin.
+
+Elimination of metformin occurs primarily via renal excretion. Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
+
+
+
+Studies characterizing the pharmacokinetics of sitagliptin and metformin after administration of ZITUVIMET XR in renally impaired patients have not been performed
+
+An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment with eGFR of 30 to less than 45 mL/min/1.73 m
+
+In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased
+
+
+Studies characterizing the pharmacokinetics of sitagliptin and metformin after administration of ZITUVIMET XR in patients with hepatic impairment have not been performed.
+
+In patients with moderate hepatic impairment (Child-Pugh score 7 to 9), mean AUC and C
+
+No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment.
+
+
+Based on a population pharmacokinetic analysis or a composite analysis of available pharmacokinetic data, BMI, gender, and race do not have a clinically meaningful effect on the pharmacokinetics of sitagliptin. When the effects of age on renal function are taken into account, age alone did not have a clinically meaningful impact on the pharmacokinetics of sitagliptin based on a population pharmacokinetic analysis. Elderly subjects (65 to 80 years) had approximately 19% higher plasma concentrations of sitagliptin compared to younger subjects.
+
+Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and C
+Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes mellitus when analyzed according to gender. Similarly, in controlled clinical studies in patients with type 2 diabetes mellitus, the antihyperglycemic effect of metformin was comparable in males and females.
+No studies of metformin pharmacokinetic parameters according to race have been performed. In controlled clinical studies of metformin in patients with type 2 diabetes mellitus, the antihyperglycemic effect was comparable in Whites (n=249), Black or African Americans (n=51), and Hispanic or Latino ethnicity (n=24).
+
+
+Coadministration of multiple doses of sitagliptin (50 mg) and metformin HCl (1,000 mg) given twice daily did not meaningfully alter the pharmacokinetics of either sitagliptin or metformin in patients with type 2 diabetes mellitus.
+Pharmacokinetic drug interaction studies with ZITUVIMET XR have not been performed; however, such studies have been conducted with the individual components of ZITUVIMET XR (sitagliptin and metformin extended-release).
+
+
+Sitagliptin is not an inhibitor of CYP isozymes CYP3A4, 2C8, 2C9, 2D6, 1A2, 2C19 or 2B6, and is not an inducer of CYP3A4. Sitagliptin is a P-gp substrate, but does not inhibit P-gp mediated transport of digoxin. Based on these results, sitagliptin is considered unlikely to cause interactions with other drugs that utilize these pathways.
+Sitagliptin is not extensively bound to plasma proteins. Therefore, the propensity of sitagliptin to be involved in clinically meaningful drug-drug interactions mediated by plasma protein binding displacement is very low.
+
+
+In clinical studies, sitagliptin did not meaningfully alter the pharmacokinetics of metformin, glyburide, simvastatin, rosiglitazone, digoxin, warfarin, or an oral contraception (ethinyl estradiol and norethindrone) (Table 5), providing
+
+
+
+
+
+
+
+Clinical data described below suggest that sitagliptin is not susceptible to clinically meaningful interactions by coadministered medications (Table 6).
+
+
+
+
+Metformin
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== 13 NONCLINICAL TOXICOLOGY ===
+
+
+No animal studies have been conducted with the combined products in ZITUVIMET XR to evaluate carcinogenesis, mutagenesis or impairment of fertility. The following data are based on the findings in studies with sitagliptin and metformin individually.
+
+A two-year carcinogenicity study was conducted in male and female rats given oral doses of sitagliptin of 50, 150, and 500 mg/kg/day. There was an increased incidence of combined liver adenoma/carcinoma in males and females and of liver carcinoma in females at 500 mg/kg. This dose results in exposures approximately 60 times the human exposure at the maximum recommended daily adult human dose (MRHD) of 100 mg/day based on AUC comparisons. Liver tumors were not observed at 150 mg/kg, approximately 20 times the human exposure at the MRHD. A two-year carcinogenicity study was conducted in male and female mice given oral doses of sitagliptin of 50, 125, 250, and 500 mg/kg/day. There was no increase in the incidence of tumors in any organ up to 500 mg/kg, approximately 70 times human exposure at the MRHD. Sitagliptin was not mutagenic or clastogenic with or without metabolic activation in the Ames bacterial mutagenicity assay, a Chinese hamster ovary (CHO) chromosome aberration assay, an
+In rat fertility studies with oral gavage doses of 125, 250, and 1,000 mg/kg, males were treated for 4 weeks prior to mating, during mating, up to scheduled termination (approximately 8 weeks total), and females were treated 2 weeks prior to mating through gestation day 7. No adverse effect on fertility was observed at 125 mg/kg (approximately 12 times human exposure at the MRHD of 100 mg/day based on AUC comparisons). At higher doses, nondose-related increased resorptions in females were observed (approximately 25 and 100 times human exposure at the MRHD based on AUC comparison).
+
+Long-term carcinogenicity studies have been performed in Sprague Dawley rats at doses of 150, 300, and 450 mg/kg/day in males and 150, 450, 900, and 1,200 mg/kg/day in females. These doses are approximately 2, 4, and 8 times in males, and 3, 7, 12, and 16 times in females of the maximum recommended human daily dose of 2,000 mg based on body surface area comparisons. No evidence of carcinogenicity with metformin was found in either male or female rats. A carcinogenicity study was also performed in Tg.AC transgenic mice at doses up to 2,000 mg applied dermally. No evidence of
+carcinogenicity was observed in male or female mice.
+Genotoxicity assessments in the Ames test, gene mutation test (mouse lymphoma cells), chromosomal aberrations test (human lymphocytes) and
+
+
+=== 13.1 CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY ===
+
+
+No animal studies have been conducted with the combined products in ZITUVIMET XR to evaluate carcinogenesis, mutagenesis or impairment of fertility. The following data are based on the findings in studies with sitagliptin and metformin individually.
+
+A two-year carcinogenicity study was conducted in male and female rats given oral doses of sitagliptin of 50, 150, and 500 mg/kg/day. There was an increased incidence of combined liver adenoma/carcinoma in males and females and of liver carcinoma in females at 500 mg/kg. This dose results in exposures approximately 60 times the human exposure at the maximum recommended daily adult human dose (MRHD) of 100 mg/day based on AUC comparisons. Liver tumors were not observed at 150 mg/kg, approximately 20 times the human exposure at the MRHD. A two-year carcinogenicity study was conducted in male and female mice given oral doses of sitagliptin of 50, 125, 250, and 500 mg/kg/day. There was no increase in the incidence of tumors in any organ up to 500 mg/kg, approximately 70 times human exposure at the MRHD. Sitagliptin was not mutagenic or clastogenic with or without metabolic activation in the Ames bacterial mutagenicity assay, a Chinese hamster ovary (CHO) chromosome aberration assay, an
+In rat fertility studies with oral gavage doses of 125, 250, and 1,000 mg/kg, males were treated for 4 weeks prior to mating, during mating, up to scheduled termination (approximately 8 weeks total), and females were treated 2 weeks prior to mating through gestation day 7. No adverse effect on fertility was observed at 125 mg/kg (approximately 12 times human exposure at the MRHD of 100 mg/day based on AUC comparisons). At higher doses, nondose-related increased resorptions in females were observed (approximately 25 and 100 times human exposure at the MRHD based on AUC comparison).
+
+Long-term carcinogenicity studies have been performed in Sprague Dawley rats at doses of 150, 300, and 450 mg/kg/day in males and 150, 450, 900, and 1,200 mg/kg/day in females. These doses are approximately 2, 4, and 8 times in males, and 3, 7, 12, and 16 times in females of the maximum recommended human daily dose of 2,000 mg based on body surface area comparisons. No evidence of carcinogenicity with metformin was found in either male or female rats. A carcinogenicity study was also performed in Tg.AC transgenic mice at doses up to 2,000 mg applied dermally. No evidence of
+carcinogenicity was observed in male or female mice.
+Genotoxicity assessments in the Ames test, gene mutation test (mouse lymphoma cells), chromosomal aberrations test (human lymphocytes) and
+
+
+=== 14 CLINICAL STUDIES ===
+
+The coadministration of sitagliptin and metformin immediate-release has been evaluated in patients with type 2 diabetes mellitus inadequately controlled on diet and exercise and in combination with other anti-hyperglycemic medications.
+
+In a multicenter, randomized, double-blind, active-controlled, dose-ranging, parallel group trial extended-release metformin HCl 1,500 mg once daily, extended-release metformin HCl 1,500 mg per day in divided doses (500 mg in the morning and 1,000 mg in the evening), and extended-release metformin HCl 2,000 mg once daily were compared to immediate-release metformin HCl 1,500 mg per day in divided doses (500 mg in the morning and 1,000 mg in the evening). This trial enrolled patients (n = 338) who were newly diagnosed with diabetes, patients treated only with diet and exercise, patients treated with a single antidiabetic medication (sulfonylureas, alpha-glucosidase inhibitors, thiazolidinediones, or meglitinides), and patients (n = 368) receiving metformin HCl up to 1,500 mg/day plus a sulfonylurea at a dose equal to or less than one-half the maximum dose. Patients who were enrolled on monotherapy or combination antidiabetic therapy underwent a 6-week washout. Patients randomized to extended-release metformin HCl began titration from 1,000 mg/day up to their assigned treatment dose over 3 weeks. Patients randomized to immediate-release metformin HCl initiated 500 mg twice daily for 1 week followed by 500 mg with breakfast and 1,000 mg with dinner for the second week. The 3-week treatment period was followed by an additional 21-week period at the randomized dose. For HbA1c and fasting plasma glucose, each of the extended-release metformin regimens was at least as effective as immediate-release metformin. Additionally, once daily dosing of extended-release metformin was as effective as twice daily dosing of the immediate-release metformin formulation.
+
+A total of 1,091 patients with type 2 diabetes mellitus and inadequate glycemic control on diet and exercise participated in a 24-week, randomized, double-blind, placebo-controlled factorial trial designed to assess the efficacy of sitagliptin and metformin immediate-release coadministration. Patients on an antihyperglycemic agent (N=541) underwent a diet, exercise, and drug washout period of up to 12 weeks duration. After the washout period, patients with inadequate glycemic control (A1C 7.5% to 11%) were randomized after completing a 2-week single-blind placebo run-in period. Patients not on antihyperglycemic agents at trial entry (N=550) with inadequate glycemic control (A1C 7.5% to 11%) immediately entered the 2-week single-blind placebo run-in period and then were randomized. Approximately equal numbers of patients were randomized to receive placebo, 100 mg of sitagliptin once daily, 500 mg or 1,000 mg of metformin HCl immediate-release twice daily, or 50 mg of sitagliptin twice daily in combination with 500 mg or 1,000 mg of metformin HCl immediate-release twice daily. Patients who failed to meet specific glycemic goals during the trial were treated with glyburide (glibenclamide) rescue.
+Sitagliptin and metformin immediate-release coadministration provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo, to metformin immediate-release alone, and to sitagliptin alone (Table 9, Figure 1). For patients not on an anti-hyperglycemic agent at trial entry, mean reductions from baseline in A1C were: sitagliptin 100 mg once daily, -1.1%; metformin HCl immediate-release 500 mg bid, -1.1%; metformin HCl immediate-release 1,000 mg bid, -1.2%; sitagliptin 50 mg bid with metformin HCl immediate-release 500 mg bid, -1.6%; sitagliptin 50 mg bid with metformin HCl immediate-release 1,000 mg bid, -1.9%; and for patients receiving placebo, -0.2%. Lipid effects were generally neutral. The decrease in body weight in the groups given sitagliptin in combination with metformin immediate-release was similar to that in the groups given metformin alone or placebo.
+
+
+Initial combination therapy or maintenance of combination therapy should be individualized and are left
+to the discretion of the health care provider.
+
+A total of 701 patients with type 2 diabetes mellitus participated in a 24-week, randomized, double-blind, placebo-controlled trial designed to assess the efficacy of sitagliptin in combination with metformin immediate-release. Patients already on metformin HCl immediate-release (N=431) at a dose of at least 1,500 mg per day were randomized after completing a 2-week, single-blind placebo run-in period. Patients on metformin immediate-release and another antihyperglycemic agent (N=229) and patients not on any antihyperglycemic agents (off therapy for at least 8 weeks, N=41) were randomized after a run-in period of approximately 10 weeks on metformin HCl immediate-release (at a dose of at least 1,500 mg per day) in monotherapy. Patients were randomized to the addition of either 100 mg of sitagliptin or placebo, administered once daily. Patients who failed to meet specific glycemic goals during the trials were treated with pioglitazone rescue.
+In combination with metformin immediate-release, sitagliptin provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo with metformin immediate-release (Table 10). Rescue glycemic therapy was used in 5% of patients treated with sitagliptin 100 mg and 14% of patients treated with placebo. A similar decrease in body weight was observed for both treatment groups.
+
+
+A total of 441 patients with type 2 diabetes mellitus participated in a 24-week, randomized, double-blind, placebo-controlled trial designed to assess the efficacy of sitagliptin in combination with glimepiride, with or without metformin immediate-release. Patients entered a run-in treatment period on glimepiride (≥4 mg per day) alone or glimepiride in combination with metformin HCl immediate-release (≥1,500 mg per day). After a dose-titration and dose-stable run-in period of up to 16 weeks and a 2-week placebo run-in period, patients with inadequate glycemic control (A1C 7.5% to 10.5%) were randomized to the addition of either 100 mg of sitagliptin or placebo, administered once daily. Patients who failed to meet specific glycemic goals during the trials were treated with pioglitazone rescue.
+Patients receiving sitagliptin with metformin immediate-release and glimepiride had significant improvements in A1C and FPG compared to patients receiving placebo with metformin immediate-release and glimepiride (Table 11), with mean reductions from baseline relative to placebo in A1C of -0.9% and in FPG of -21 mg/dL. Rescue therapy was used in 8% of patients treated with add-on sitagliptin 100 mg and 29% of patients treated with add-on placebo. The patients treated with add-on sitagliptin had a mean increase in body weight of 1.1 kg vs. add-on placebo (+0.4 kg vs. -0.7 kg). In addition, add-on sitagliptin resulted in an increased rate of hypoglycemia compared to add-on placebo
+
+
+A total of 278 patients with type 2 diabetes mellitus participated in a 54-week, randomized, double-blind, placebo-controlled trial designed to assess the efficacy of sitagliptin in combination with metformin immediate-release and rosiglitazone. Patients on dual therapy with metformin HCl immediate-release ≥1,500 mg/day and rosiglitazone ≥4 mg/day or with metformin HCl immediate-release ≥1,500 mg/day and pioglitazone ≥30 mg/day (switched to rosiglitazone ≥4 mg/day) entered a dose-stable run-in period of 6 weeks. Patients on other dual therapy were switched to metformin HCl immediate-release ≥1,500 mg/day and rosiglitazone ≥4 mg/day in a dose titration/stabilization run-in period of up to 20 weeks in duration. After the run-in period, patients with inadequate glycemic control (A1C 7.5% to 11%) were randomized 2:1 to the addition of either 100 mg of sitagliptin or placebo, administered once daily. Patients who failed to meet specific glycemic goals during the trials were treated with glipizide (or other sulfonylurea) rescue. The primary time point for evaluation of glycemic parameters was Week 18.
+In combination with metformin immediate-release and rosiglitazone, sitagliptin provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo with metformin immediate-release and rosiglitazone (Table 12) at Week 18. At Week 54, mean reduction in A1C was -1% for patients treated with sitagliptin and -0.3% for patients treated with placebo in an analysis based on the intent-to-treat population. Rescue therapy was used in 18% of patients treated with sitagliptin 100 mg and 40% of patients treated with placebo. There was no significant difference between sitagliptin and placebo in body weight change.
+
+A total of 641 patients with type 2 diabetes mellitus participated in a 24-week, randomized, double-blind, placebo-controlled trial designed to assess the efficacy of sitagliptin as add-on to insulin therapy. Approximately 75% of patients were also taking metformin immediate-release. Patients entered a 2-week, single-blind run-in treatment period on pre-mixed, long-acting, or intermediate-acting insulin, with or without metformin HCl immediate-release (≥1,500 mg per day). Patients using short-acting insulins were excluded unless the short-acting insulin was administered as part of a pre-mixed insulin. After the run-in period, patients with inadequate glycemic control (A1C 7.5% to 11%) were randomized to the addition of either 100 mg of sitagliptin (N=229) or placebo (N=233), administered once daily. Patients were on a stable dose of insulin prior to enrollment with no changes in insulin dose permitted during the run-in period. Patients who failed to meet specific glycemic goals during the double-blind treatment period were to have uptitration of the background insulin dose as rescue therapy.
+Among patients also receiving metformin immediate-release, the median daily insulin (pre-mixed, intermediate or long acting) dose at baseline was 40 units in the sitagliptin-treated patients and 42 units in the placebo-treated patients. The median change from baseline in daily dose of insulin was zero for both groups at the end of the trial. Patients receiving sitagliptin with metformin immediate-release and insulin had significant improvements in A1C, FPG and 2-hour PPG compared to patients receiving placebo with metformin immediate-release and insulin (Table 13). The adjusted mean change from baseline in body weight was -0.3 kg in patients receiving sitagliptin with metformin immediate-release and insulin and -0.2 kg in patients receiving placebo with metformin immediate-release and insulin. There was an increased rate of hypoglycemia in patients treated with sitagliptin
+
+
+
+
+
+A total of 746 patients with type 2 diabetes mellitus (mean baseline HbA1C 8.8%, disease duration 10.8 years) participated in a 30-week, randomized, double-blind, placebo-controlled trial to assess the efficacy and safety of continuing sitagliptin during the initiation and up-titration of insulin glargine. Patients who were on a stable dose of metformin HCl (≥1,500 mg/day) in combination with a DPP-4 inhibitor and/or sulfonylurea but with inadequate glycemic control (A1C 7.5% to 11%) were enrolled in the trial. Those on metformin and sitagliptin (100 mg/day) directly entered the double-blind treatment period; those on another DPP-4 inhibitor and/or on a sulfonylurea entered a 4 to 8 week run-in period in which they were maintained on metformin and switched to sitagliptin (100 mg); other DPP-4 inhibitors and sulfonylureas were discontinued. At randomization patients were randomized either to continue sitagliptin or to discontinue sitagliptin and switch to a matching placebo. On the day of randomization, insulin glargine was initiated at a dose of 10 units subcutaneously in the evening. Patients were instructed to up-titrate their insulin dose in the evening based on fasting blood glucose measurements to achieve a target of 72 to100 mg/dL.
+At 30 weeks, the mean reduction in A1C was greater in the sitagliptin group than in the placebo group (Table 14). At the end of the trial, 27.3% of patients in the sitagliptin group and 27.3% in the placebo group had a fasting plasma glucose (FPG) in the target range; there was no significant difference in insulin dose between arms.
+
+The efficacy of sitagliptin was evaluated in a 52-week, double-blind, glipizide-controlled noninferiority trial in patients with type 2 diabetes mellitus. Patients not on treatment or on other antihyperglycemic agents entered a run-in treatment period of up to 12 weeks duration with metformin HCl immediate-release monotherapy (dose of ≥1,500 mg per day) which included washout of medications other than metformin immediate-release, if applicable. After the run-in period, those with inadequate glycemic control (A1C 6.5% to 10%) were randomized 1:1 to the addition of sitagliptin 100 mg once daily or glipizide for 52 weeks. Patients receiving glipizide were given an initial dosage of 5 mg/day and then electively titrated over the next 18 weeks to a maximum dosage of 20 mg/day as needed to optimize glycemic control. Thereafter, the glipizide dose was to be kept constant, except for down-titration to prevent hypoglycemia. The mean dose of glipizide after the titration period was 10 mg.
+After 52 weeks, sitagliptin and glipizide had similar mean reductions from baseline in A1C in the intent-to-treat analysis (Table 15). These results were consistent with the per protocol analysis (Figure 2). A conclusion in favor of the non-inferiority of sitagliptin to glipizide may be limited to patients with baseline A1C comparable to those included in the trial (over 70% of patients had baseline A1C less than 8% and over 90% had A1C less than 9%).
+
+
+
+
+The incidence of hypoglycemia in the sitagliptin group (4.9%) was significantly (p<0.001) lower than that in the glipizide group (32%). Patients treated with sitagliptin exhibited a significant mean decrease from baseline in body weight compared to a significant weight gain in patients administered glipizide (-1.5 kg vs. + 1.1 kg).
+
+
+=== 16 HOW SUPPLIED/STORAGE AND HANDLING ===
+
+Tablets supplied as follows:
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature]. Store in a dry place with cap tightly closed. Keep ZITUVIMET XR in the original container to protect it from moisture. Use ZITUVIMET XR within 1 month of opening the bottle.
+
+
+=== 17 PATIENT COUNSELING INFORMATION ===
+
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+Explain the risks of lactic acidosis, its symptoms, and conditions that predispose to its development. Advise patients to discontinue ZITUVIMET XR immediately and to promptly notify their healthcare provider if unexplained hyperventilation, myalgias, malaise, unusual somnolence or other nonspecific symptoms occur. Counsel patients against excessive alcohol intake and inform patients about the importance of regular testing of renal function while receiving ZITUVIMET XR. Instruct patients to inform their doctor that they are taking ZITUVIMET XR prior to any surgical or radiological procedure, as temporary discontinuation may be required
+
+Inform patients that acute pancreatitis has been reported during postmarketing use of ZITUVIMET XR. Inform patients that persistent severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis. Instruct patients to promptly discontinue ZITUVIMET XR and contact their physician if persistent severe abdominal pain occurs
+
+Inform patients of the signs and symptoms of heart failure. Before initiating ZITUVIMET XR, ask patients about a history of heart failure or other risk factors for heart failure including moderate to severe renal impairment. Instruct patients to contact their health care provider as soon as possible if they experience symptoms of heart failure, including increasing shortness of breath, rapid increase in weight or swelling of the feet
+
+Inform patients about the importance of regular monitoring of hematological parameters while receiving ZITUVIMET XR
+
+Inform patients that the incidence of hypoglycemia is increased when ZITUVIMET XR is added to an insulin secretagogue (e.g., sulfonylurea) or insulin therapy. Explain to patients receiving ZITUVIMET XR in combination with these medications the risks of hypoglycemia, its symptoms and treatment and conditions that predispose to its development
+
+Inform patients that allergic reactions have been reported during postmarketing use of sitagliptin, one of the components of ZITUVIMET XR. If symptoms of allergic reactions (including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking ZITUVIMET XR and seek medical advice promptly.
+
+Inform patients that severe and disabling joint pain may occur with this class of drugs. The time to onset of symptoms can range from one day to years. Instruct patients to seek medical advice if severe joint pain occurs
+
+Inform patients that bullous pemphigoid may occur with this class of drugs. Instruct patients to seek medical advice if blisters or erosions occur
+
+Inform patients that the tablets must be swallowed whole and never split, crushed or chewed.
+
+Inform patients that incompletely dissolved ZITUVIMET XR tablets may be eliminated in the feces. Tell patients that, if they repeatedly see tablets in feces, they should report this finding to their health care provider. Assess adequacy of glycemic control if a patient reports repeatedly observing tablets in feces.
+
+Inform females that treatment with ZITUVIMET XR may result in ovulation in some premenopausal anovulatory women which may lead to unintended pregnancy
+Medication Guide available at www.zydususa.com/medguides or call 1-877-993-8779.
+The trademarks depicted herein are owned by their respective companies.
+
+
+Pharmez, Matoda, Ahmedabad, India
+
+
+Route 31 North, Pennington, NJ 08534
+Rev:.07/25
+
+
+=== SPL MEDGUIDE ===
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+
+=== PACKAGE LABEL.PRINCIPAL DISPLAY PANEL ===
+
+NDC 70710-1804-6
+ZITUVIMET XR (sitagliptin and metformin hydrochloride extended-release) tablets
+50 mg/500 mg
+60 Tablets
+Rx only
+NDC 70710-1805-6
+ZITUVIMET XR (sitagliptin and metformin hydrochloride extended-release) tablets
+50 mg/1,000 mg
+60 Tablets
+Rx only
+NDC 70710-1806-3
+ZITUVIMET XR (sitagliptin and metformin hydrochloride extended-release) tablets
+100 mg/1,000 mg
+30 Tablets
+Rx only

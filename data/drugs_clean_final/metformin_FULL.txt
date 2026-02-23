@@ -1,0 +1,764 @@
+
+
+=== WARNING: LACTIC ACIDOSIS ===
+
+
+
+
+
+
+
+
+=== 1 INDICATIONS & USAGE ===
+
+Metformin hydrochloride extended-release tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
+Metformin Hydrochloride Extended-release Tablets are a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. (1)
+
+
+=== 2 DOSAGE & ADMINISTRATION ===
+
+
+• Swallow Metformin hydrochloride extended-release tablets whole and never crush, cut or chew
+• Swallow Metformin hydrochloride extended- release tablets whole and never crush, cut or chew.
+• Assess renal function prior to initiation of Metformin hydrochloride extended-release tablets and periodically thereafter.
+Discontinue Metformin hydrochloride extended-release tablets at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m
+
+
+=== 2.1 ADULT DOSAGE ===
+
+• Swallow Metformin hydrochloride extended- release tablets whole and never crush, cut or chew.
+
+
+=== 2.3 RECOMMENDATIONS FOR USE IN RENAL IMPAIRMENT ===
+
+• Assess renal function prior to initiation of Metformin hydrochloride extended-release tablets and periodically thereafter.
+
+
+=== 2.4 DISCONTINUATION FOR IODINATED CONTRAST IMAGING PROCEDURES ===
+
+Discontinue Metformin hydrochloride extended-release tablets at the time of, or prior to, an iodinated contrast imaging procedure in patients with an eGFR between 30 and 60 mL/min/1.73 m
+
+
+=== 3 DOSAGE FORMS & STRENGTHS ===
+
+Metformin hydrochloride extended-release tablets is available as:
+•
+
+
+=== 4 CONTRAINDICATIONS ===
+
+Metformin hydrochloride extended-release tablets, USP are contraindicated in patients with:
+• Severe renal impairment (eGFR below 30 mL/min/1.73 m
+
+
+=== 5 WARNINGS AND PRECAUTIONS ===
+
+There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases. These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypotension and resistant bradyarrhythmias have occurred with severe acidosis. Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate: pyruvate ratio; metformin plasma levels were generally >5 mcg/mL. Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
+If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of metformin hydrochloride extended-release tablets. In metformin hydrochloride extended- release tablets treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable with a clearance of up to 170 mL/min under good hemodynamic conditions). Hemodialysis has often resulted in reversal of symptoms and recovery.
+Educate patients and their families about the symptoms of lactic acidosis and, if these symptoms occur, instruct them to discontinue metformin hydrochloride extended-release tablets and report these symptoms to their healthcare provider.
+For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
+•
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney. Clinical recommendations based upon the patient's renal function include [see
+o Before initiating metformin hydrochloride extended-release tablets, obtain an estimated glomerular filtration rate (eGFR).
+•
+•
+•
+•
+•
+•
+•
+In metformin hydrochloride tablets clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B
+Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia. Metformin hydrochloride extended-release tablets may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue. Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with metformin hydrochloride extended-release tablets [see
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with metformin hydrochloride extended-release tablets.
+
+
+=== 5.1 LACTIC ACIDOSIS ===
+
+There have been postmarketing cases of metformin-associated lactic acidosis, including fatal cases. These cases had a subtle onset and were accompanied by nonspecific symptoms such as malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence; however, hypotension and resistant bradyarrhythmias have occurred with severe acidosis. Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), and an increased lactate: pyruvate ratio; metformin plasma levels were generally >5 mcg/mL. Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
+If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of metformin hydrochloride extended-release tablets. In metformin hydrochloride extended- release tablets treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin hydrochloride is dialyzable with a clearance of up to 170 mL/min under good hemodynamic conditions). Hemodialysis has often resulted in reversal of symptoms and recovery.
+Educate patients and their families about the symptoms of lactic acidosis and, if these symptoms occur, instruct them to discontinue metformin hydrochloride extended-release tablets and report these symptoms to their healthcare provider.
+For each of the known and possible risk factors for metformin-associated lactic acidosis, recommendations to reduce the risk of and manage metformin-associated lactic acidosis are provided below:
+•
+The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney. Clinical recommendations based upon the patient's renal function include [see
+o Before initiating metformin hydrochloride extended-release tablets, obtain an estimated glomerular filtration rate (eGFR).
+•
+•
+•
+•
+•
+•
+•
+
+
+=== 5.2 VITAMIN B ===
+
+In metformin hydrochloride tablets clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B
+
+
+=== 5.3 HYPOGLYCEMIA WITH CONCOMITANT USE WITH INSULIN AND INSULIN SECRETAGOGUES ===
+
+Insulin and insulin secretagogues (e.g., sulfonylurea) are known to cause hypoglycemia. Metformin hydrochloride extended-release tablets may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue. Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with metformin hydrochloride extended-release tablets [see
+
+
+=== 5.4 MACROVASCULAR OUTCOMES ===
+
+There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with metformin hydrochloride extended-release tablets.
+
+
+=== 6 ADVERSE REACTIONS ===
+
+The following adverse reactions are also discussed elsewhere in the labeling:
+For Metformin Hydrochloride Extended-release Tablets, the most common adverse reactions (>5.0%) are diarrhea, nausea/vomiting, flatulence, asthenia, indigestion, abdominal discomfort, and headache. (6.1)
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+Diarrhea led to discontinuation of Metformin Hydrochloride Tablets in 6% of patients. Additionally, the following adverse reactions were reported in ≥1% to ≤5% of Metformin Hydrochloride Tablets treated patients and were more commonly reported with Metformin Hydrochloride Tablets than placebo: abnormal stools, hypoglycemia, myalgia, lightheaded, dyspnea, nail disorder, rash, sweating increased, taste disorder, chest discomfort, chills, flu syndrome, flushing, palpitation.
+In Metformin Hydrochloride Tablets clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B
+
+Diarrhea led to discontinuation of metformin hydrochloride extended-release tablets in 0.6% of patients. Additionally, the following adverse reactions were reported in ≥1.0% to ≤5.0% of metformin hydrochloride extended-release tablets patients and were more commonly reported with metformin hydrochloride extended-release tablets than placebo: abdominal pain, constipation, distention abdomen, dyspepsia/heartburn, flatulence, dizziness, headache, upper respiratory infection, taste disturbance.
+The following adverse reactions have been identified during post approval use of metformin. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Cholestatic, hepatocellular, and mixed hepatocellular liver injury have been reported with postmarketing use of metformin.
+
+
+=== 6.1 CLINICAL STUDIES EXPERIENCE ===
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+
+Diarrhea led to discontinuation of Metformin Hydrochloride Tablets in 6% of patients. Additionally, the following adverse reactions were reported in ≥1% to ≤5% of Metformin Hydrochloride Tablets treated patients and were more commonly reported with Metformin Hydrochloride Tablets than placebo: abnormal stools, hypoglycemia, myalgia, lightheaded, dyspnea, nail disorder, rash, sweating increased, taste disorder, chest discomfort, chills, flu syndrome, flushing, palpitation.
+In Metformin Hydrochloride Tablets clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B
+
+Diarrhea led to discontinuation of metformin hydrochloride extended-release tablets in 0.6% of patients. Additionally, the following adverse reactions were reported in ≥1.0% to ≤5.0% of metformin hydrochloride extended-release tablets patients and were more commonly reported with metformin hydrochloride extended-release tablets than placebo: abdominal pain, constipation, distention abdomen, dyspepsia/heartburn, flatulence, dizziness, headache, upper respiratory infection, taste disturbance.
+
+
+=== 6.2 POSTMARKETING EXPERIENCE ===
+
+The following adverse reactions have been identified during post approval use of metformin. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Cholestatic, hepatocellular, and mixed hepatocellular liver injury have been reported with postmarketing use of metformin.
+
+
+=== 7 DRUG INTERACTIONS ===
+
+Table 3 presents clinically significant drug interactions with metformin hydrochloride extended-release tablets.
+• Carbonic anhydrase inhibitors may increase risk of lactic acidosis. Consider more frequent monitoring
+
+
+=== 8 USE IN SPECIFIC POPULATIONS ===
+
+• Females and Males of Reproductive Potential: Advise premenopausal females of the potential for an unintended pregnancy.
+
+No adverse developmental effects were observed when metformin was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 2-and 5-times, respectively, a 2550 mg clinical dose, based on body surface area [see
+The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes mellitus with an HbA
+
+Poorly-controlled diabetes mellitus in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth and delivery complications. Poorly controlled diabetes mellitus increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
+
+
+
+
+Discuss the potential for unintended pregnancy with premenopausal women as therapy with metformin hydrochloride extended-release tablets may result in ovulation in some anovulatory women.
+Safety and effectiveness of metformin hydrochloride extended-release tablets in pediatric patients have not been established.
+Controlled clinical studies of metformin hydrochloride extended-release tablets did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis. Assess renal function more frequently in elderly patients [see
+Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment. Metformin hydrochloride extended-release tablets are contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m
+Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis. Metformin hydrochloride extended-release tablets are not recommended in patients with hepatic impairment. [see
+
+
+=== 8.1 PREGNANCY ===
+
+
+No adverse developmental effects were observed when metformin was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 2-and 5-times, respectively, a 2550 mg clinical dose, based on body surface area [see
+The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes mellitus with an HbA
+
+Poorly-controlled diabetes mellitus in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth and delivery complications. Poorly controlled diabetes mellitus increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
+
+
+
+
+=== 8.2 LACTATION ===
+
+
+
+
+
+=== 8.3 FEMALES AND MALES OF REPRODUCTIVE POTENTIAL ===
+
+Discuss the potential for unintended pregnancy with premenopausal women as therapy with metformin hydrochloride extended-release tablets may result in ovulation in some anovulatory women.
+
+
+=== 8.4 PEDIATRIC USE ===
+
+Safety and effectiveness of metformin hydrochloride extended-release tablets in pediatric patients have not been established.
+
+
+=== 8.5 GERIATRIC USE ===
+
+Controlled clinical studies of metformin hydrochloride extended-release tablets did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis. Assess renal function more frequently in elderly patients [see
+
+
+=== 8.6 RENAL IMPAIRMENT ===
+
+Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment. Metformin hydrochloride extended-release tablets are contraindicated in severe renal impairment, patients with an estimated glomerular filtration rate (eGFR) below 30 mL/min/1.73 m
+
+
+=== 8.7 HEPATIC IMPAIRMENT ===
+
+Use of metformin in patients with hepatic impairment has been associated with some cases of lactic acidosis. Metformin hydrochloride extended-release tablets are not recommended in patients with hepatic impairment. [see
+
+
+=== 10 OVERDOSAGE ===
+
+Overdose of metformin hydrochloride has occurred, including ingestion of amounts greater than 50 grams. Hypoglycemia was reported in approximately 10% of cases, but no causal association with metformin has been established. Lactic acidosis has been reported in approximately 32% of metformin overdose cases [see
+
+
+=== 11 DESCRIPTION ===
+
+Metformin Hydrochloride Extended-release Tablets, USP contain the antihyperglycemic agent metformin, which is a biguanide, in the form of monohydrochloride. The chemical name of metformin hydrochloride is
+
+Metformin hydrochloride, USP is a white to off-white crystalline compound with a molecular formula of C
+
+Dissolution Method: Test 24
+
+
+=== 12 CLINICAL PHARMACOLOGY ===
+
+Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose. Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization. With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may decrease.
+
+The absolute bioavailability of a Metformin Hydrochloride Tablets 500 mg given under fasting conditions is approximately 50% to 60%. Studies using single oral doses of Metformin Hydrochloride Tablets 500 to 1500 mg and 850 to 2550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination. At usual clinical doses and dosing schedules of Metformin Hydrochloride Tablets, steady state plasma concentrations of metformin are reached within 24 to 48 hours and are generally <1 µg/mL.
+Following a single oral dose of metformin hydrochloride extended-release tablets, C
+At steady state, the AUC and C
+Although the extent of metformin absorption (as measured by AUC) from the metformin hydrochloride extended-release tablet increased by approximately 50% when given with food, there was no effect of food on C
+
+
+
+
+
+
+
+
+
+
+
+In Vivo Assessment of Drug Interactions
+
+
+*All metformin and coadministered drugs were given as single doses
+
+‡ Ratio of arithmetic means, p-value of difference <0.05
+§AUC (0-24 hr) reported
+¶ Ratio of arithmetic means
+
+
+=== 12.1 MECHANISM OF ACTION ===
+
+Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose. Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization. With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may decrease.
+
+
+=== 12.3 PHARMACOKINETICS ===
+
+
+The absolute bioavailability of a Metformin Hydrochloride Tablets 500 mg given under fasting conditions is approximately 50% to 60%. Studies using single oral doses of Metformin Hydrochloride Tablets 500 to 1500 mg and 850 to 2550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination. At usual clinical doses and dosing schedules of Metformin Hydrochloride Tablets, steady state plasma concentrations of metformin are reached within 24 to 48 hours and are generally <1 µg/mL.
+Following a single oral dose of metformin hydrochloride extended-release tablets, C
+At steady state, the AUC and C
+Although the extent of metformin absorption (as measured by AUC) from the metformin hydrochloride extended-release tablet increased by approximately 50% when given with food, there was no effect of food on C
+
+
+
+
+
+
+
+
+
+
+
+In Vivo Assessment of Drug Interactions
+
+
+*All metformin and coadministered drugs were given as single doses
+
+‡ Ratio of arithmetic means, p-value of difference <0.05
+§AUC (0-24 hr) reported
+¶ Ratio of arithmetic means
+
+
+
+
+
+In Vivo Assessment of Drug Interactions
+
+
+*All metformin and coadministered drugs were given as single doses
+
+‡ Ratio of arithmetic means, p-value of difference <0.05
+§AUC (0-24 hr) reported
+¶ Ratio of arithmetic means
+
+*All metformin and coadministered drugs were given as single doses
+
+‡ Ratio of arithmetic means, p-value of difference <0.05
+§AUC (0-24 hr) reported
+¶ Ratio of arithmetic means
+
+
+=== 13 NONCLINICAL TOXICOLOGY ===
+
+Long-term carcinogenicity studies have been performed in rats (dosing duration of 104 weeks) and mice (dosing duration of 91 weeks) at doses up to and including 900 mg/kg/day and 1500 mg/kg/day, respectively. These doses are both approximately 3 times the maximum recommended human daily dose of 2550 mg based on body surface area comparisons. No evidence of carcinogenicity with metformin was found in either male or female mice. Similarly, there was no tumorigenic potential observed with metformin in male rats. There was, however, an increased incidence of benign stromal uterine polyps in female rats treated with 900 mg/kg/day.
+There was no evidence of a mutagenic potential of metformin in the following
+Fertility of male or female rats was unaffected by metformin when administered at doses as high as 600 mg/kg/day, which is approximately 2 times the maximum recommended human daily dose of 2550 mg based on body surface area comparisons.
+
+
+=== 13.1 CARCINOGENESIS, MUTAGENESIS & IMPAIRMENT OF FERTILITY ===
+
+Long-term carcinogenicity studies have been performed in rats (dosing duration of 104 weeks) and mice (dosing duration of 91 weeks) at doses up to and including 900 mg/kg/day and 1500 mg/kg/day, respectively. These doses are both approximately 3 times the maximum recommended human daily dose of 2550 mg based on body surface area comparisons. No evidence of carcinogenicity with metformin was found in either male or female mice. Similarly, there was no tumorigenic potential observed with metformin in male rats. There was, however, an increased incidence of benign stromal uterine polyps in female rats treated with 900 mg/kg/day.
+There was no evidence of a mutagenic potential of metformin in the following
+Fertility of male or female rats was unaffected by metformin when administered at doses as high as 600 mg/kg/day, which is approximately 2 times the maximum recommended human daily dose of 2550 mg based on body surface area comparisons.
+
+
+=== 14 CLINICAL STUDIES ===
+
+
+
+
+
+
+
+
+
+Baseline
+Change at FINAL VISIT
+241.5
+53.0
+237.7
+6.3
+NS*
+0.001
+
+Baseline
+Change at FINAL VISIT
+8.4
+1.4
+8.2
+0.4
+NS*
+0.001
+* Not statistically significant
+Mean baseline body weight was 201 lbs and 206 lbs in the Metformin Hydrochloride Tablets and placebo arms, respectively. Mean change in body weight from baseline to week 29 was -1.4 lbs and -2.4 lbs in the Metformin Hydrochloride Tablets and placebo arms, respectively. A 29-week, double-blind, placebo-controlled study of Metformin Hydrochloride Tablets and glyburide, alone and in combination, was conducted in obese patients with type 2 diabetes mellitus who had failed to achieve adequate glycemic control while on maximum doses of glyburide (baseline FPG of approximately 250 mg/dL). Patients randomized to the combination arm started therapy with Metformin Hydrochloride Tablets 500 mg and glyburide 20 mg. At the end of each week of the first 4 weeks of the trial, these patients had their dosages of Metformin Hydrochloride Tablets increased by 500 mg if they had failed to reach target fasting plasma glucose. After week 4, such dosage adjustments were made monthly, although no patient was allowed to exceed Metformin Hydrochloride Tablets 2500 mg. Patients in the Metformin Hydrochloride Tablets only arm (metformin plus placebo) discontinued glyburide and followed the same titration schedule. Patients in the glyburide arm continued the same dose of glyburide. At the end of the trial, approximately 70% of the patients in the combination group were taking Metformin Hydrochloride Tablets 2000 mg/glyburide 20 mg or Metformin Hydrochloride Tablets 2500 mg/glyburide 20 mg. The results are displayed in Table 8.
+
+
+
+
+
+
+
+
+
+
+
+
+Change at FINAL VISIT
+250.5
+–63.5
+247.5
+13.7
+253.9
+–0.9
+NS*
+0.001
+NS*
+0.001
+NS*
+0.025
+
+Change at FINAL VISIT
+8.8
+–1.7
+8.5
+0.2
+8.9
+–0.4
+NS*
+0.001
+NS*
+0.001
+0.007
+0.001
+* Not statistically significant
+Mean baseline body weight was 202 lbs, 203 lbs, and 204 lbs in the Metformin Hydrochloride Tablets/glyburide, glyburide, and Metformin Hydrochloride Tablets arms, respectively. Mean change in body weight from baseline to week 29 was 0.9 lbs, -0.7 lbs, and -8.4 lbs in the Metformin Hydrochloride Tablets/glyburide, glyburide, and Metformin Hydrochloride Tablets arms, respectively
+
+
+
+
+
+Baseline
+Change at FINAL VISIT
+
+162.4
+42.9
+
+192.3
+21.4
+<0.001
+
+Mean baseline body weight was 205 lbs and 189 lbs in the Metformin Hydrochloride Tablets and placebo arms, respectively. Mean change in body weight from baseline to week 16 was -3.3 lbs and -2.0 lbs in the Metformin Hydrochloride Tablets and placebo arms, respectively.
+A 24-week, double-blind, placebo-controlled study of Metformin Hydrochloride Extended-release Tablets taken once daily with the evening meal, was conducted in patients with type 2 diabetes mellitus who had failed to achieve glycemic control with diet and exercise. Patients entering the study had a mean baseline HbA1c of 8.0% and a mean baseline FPG of 176 mg/dL. The treatment dose was increased to 1500 mg once daily if at Week 12 HbA1c was 7.0% but <8.0% (patients with HbA1c 8.0% were discontinued from the study). At the final visit (24-week), mean HbA1c had increased 0.2% from baseline in placebo patients and decreased 0.6% with Metformin Hydrochloride Extended-release Tablets.
+A 16-week, double-blind, placebo-controlled, dose-response study of Metformin Hydrochloride Extended-release Tablets, taken once daily with the evening meal or twice daily with meals, was conducted in patients with type 2 diabetes mellitus who had failed to achieve glycemic control with diet and exercise. The results are shown in Table 10.
+
+
+
+
+
+
+
+
+
+Baseline
+Change at FINAL VISIT
+p-value
+
+8.2
+–0.4
+<0.001
+
+8.4
+–0.6
+<0.001
+
+8.3
+–0.9
+<0.001
+
+8.4
+–0.8
+<0.001
+
+8.4
+–1.1
+<0.001
+
+8.4
+0.1
+–
+FPG (mg/dL)
+Baseline
+Change at FINAL VISIT p-value
+
+–15.2
+<0.001
+
+–19.3 <0.001
+
+178.9
+–28.5
+<0.001
+
+181.0
+–29.9
+<0.001
+
+181.6
+–33.6
+<0.001
+
+179.6
+7.6
+–
+
+Mean baseline body weight was 193 lbs, 192 lbs, 188 lbs, 196 lbs, 193 lbs and 194 lbs in the Metformin Hydrochloride Extended-release Tablets 500 mg , 1000 mg, 1500 mg, and 2000 mg once daily, 1000 mg twice daily and placebo arms, respectively. Mean change in body weight from baseline to week 16 was -1.3 lbs, -1.3 lbs, -0.7 lbs, -1.5 lbs, -2.2 lbs and -1.8 lbs, respectively.
+
+
+
+
+
+
+
+Change at FINAL VISIT (95% CI)
+
+7.06
+0.14
+(–0.04, 0.31)
+
+6.99
+0.27
+(0.11, 0.43)
+
+7.02
+0.13
+(–0.02, 0.28)
+
+Baseline
+Change at FINAL VISIT (95% CI)
+
+127.2
+14.0
+(7.0, 21.0)
+
+131.0
+11.5
+(4.4, 18.6)
+
+131.4
+7.6
+(1.0, 14.2)
+
+Mean baseline body weight was 210lbs, 203 lbs and 193 lbs in the Metformin Hydrochloride Tablets 500 mg twice daily, and Metformin Hydrochloride Extended-release Tablets 1000 mg and 1500 mg once daily arms, respectively. Mean change in body weight from baseline to week 24 was 0.9 Ibs, 1.1 Ibs and 0.9 Ibs, respectively.
+
+
+=== 14.1 METFORMIN HYDROCHLORIDE TABLETS ===
+
+
+
+
+
+
+
+
+
+Baseline
+Change at FINAL VISIT
+241.5
+53.0
+237.7
+6.3
+NS*
+0.001
+
+Baseline
+Change at FINAL VISIT
+8.4
+1.4
+8.2
+0.4
+NS*
+0.001
+* Not statistically significant
+Mean baseline body weight was 201 lbs and 206 lbs in the Metformin Hydrochloride Tablets and placebo arms, respectively. Mean change in body weight from baseline to week 29 was -1.4 lbs and -2.4 lbs in the Metformin Hydrochloride Tablets and placebo arms, respectively. A 29-week, double-blind, placebo-controlled study of Metformin Hydrochloride Tablets and glyburide, alone and in combination, was conducted in obese patients with type 2 diabetes mellitus who had failed to achieve adequate glycemic control while on maximum doses of glyburide (baseline FPG of approximately 250 mg/dL). Patients randomized to the combination arm started therapy with Metformin Hydrochloride Tablets 500 mg and glyburide 20 mg. At the end of each week of the first 4 weeks of the trial, these patients had their dosages of Metformin Hydrochloride Tablets increased by 500 mg if they had failed to reach target fasting plasma glucose. After week 4, such dosage adjustments were made monthly, although no patient was allowed to exceed Metformin Hydrochloride Tablets 2500 mg. Patients in the Metformin Hydrochloride Tablets only arm (metformin plus placebo) discontinued glyburide and followed the same titration schedule. Patients in the glyburide arm continued the same dose of glyburide. At the end of the trial, approximately 70% of the patients in the combination group were taking Metformin Hydrochloride Tablets 2000 mg/glyburide 20 mg or Metformin Hydrochloride Tablets 2500 mg/glyburide 20 mg. The results are displayed in Table 8.
+
+
+
+
+
+
+
+
+
+
+
+
+Change at FINAL VISIT
+250.5
+–63.5
+247.5
+13.7
+253.9
+–0.9
+NS*
+0.001
+NS*
+0.001
+NS*
+0.025
+
+Change at FINAL VISIT
+8.8
+–1.7
+8.5
+0.2
+8.9
+–0.4
+NS*
+0.001
+NS*
+0.001
+0.007
+0.001
+* Not statistically significant
+Mean baseline body weight was 202 lbs, 203 lbs, and 204 lbs in the Metformin Hydrochloride Tablets/glyburide, glyburide, and Metformin Hydrochloride Tablets arms, respectively. Mean change in body weight from baseline to week 29 was 0.9 lbs, -0.7 lbs, and -8.4 lbs in the Metformin Hydrochloride Tablets/glyburide, glyburide, and Metformin Hydrochloride Tablets arms, respectively
+
+
+
+
+
+Baseline
+Change at FINAL VISIT
+
+162.4
+42.9
+
+192.3
+21.4
+<0.001
+
+Mean baseline body weight was 205 lbs and 189 lbs in the Metformin Hydrochloride Tablets and placebo arms, respectively. Mean change in body weight from baseline to week 16 was -3.3 lbs and -2.0 lbs in the Metformin Hydrochloride Tablets and placebo arms, respectively.
+
+
+=== 14.2 METFORMIN HYDROCHLORIDE EXTENDED-RELEASE TABLETS ===
+
+A 24-week, double-blind, placebo-controlled study of Metformin Hydrochloride Extended-release Tablets taken once daily with the evening meal, was conducted in patients with type 2 diabetes mellitus who had failed to achieve glycemic control with diet and exercise. Patients entering the study had a mean baseline HbA1c of 8.0% and a mean baseline FPG of 176 mg/dL. The treatment dose was increased to 1500 mg once daily if at Week 12 HbA1c was 7.0% but <8.0% (patients with HbA1c 8.0% were discontinued from the study). At the final visit (24-week), mean HbA1c had increased 0.2% from baseline in placebo patients and decreased 0.6% with Metformin Hydrochloride Extended-release Tablets.
+A 16-week, double-blind, placebo-controlled, dose-response study of Metformin Hydrochloride Extended-release Tablets, taken once daily with the evening meal or twice daily with meals, was conducted in patients with type 2 diabetes mellitus who had failed to achieve glycemic control with diet and exercise. The results are shown in Table 10.
+
+
+
+
+
+
+
+
+
+Baseline
+Change at FINAL VISIT
+p-value
+
+8.2
+–0.4
+<0.001
+
+8.4
+–0.6
+<0.001
+
+8.3
+–0.9
+<0.001
+
+8.4
+–0.8
+<0.001
+
+8.4
+–1.1
+<0.001
+
+8.4
+0.1
+–
+FPG (mg/dL)
+Baseline
+Change at FINAL VISIT p-value
+
+–15.2
+<0.001
+
+–19.3 <0.001
+
+178.9
+–28.5
+<0.001
+
+181.0
+–29.9
+<0.001
+
+181.6
+–33.6
+<0.001
+
+179.6
+7.6
+–
+
+Mean baseline body weight was 193 lbs, 192 lbs, 188 lbs, 196 lbs, 193 lbs and 194 lbs in the Metformin Hydrochloride Extended-release Tablets 500 mg , 1000 mg, 1500 mg, and 2000 mg once daily, 1000 mg twice daily and placebo arms, respectively. Mean change in body weight from baseline to week 16 was -1.3 lbs, -1.3 lbs, -0.7 lbs, -1.5 lbs, -2.2 lbs and -1.8 lbs, respectively.
+
+
+
+
+
+
+
+Change at FINAL VISIT (95% CI)
+
+7.06
+0.14
+(–0.04, 0.31)
+
+6.99
+0.27
+(0.11, 0.43)
+
+7.02
+0.13
+(–0.02, 0.28)
+
+Baseline
+Change at FINAL VISIT (95% CI)
+
+127.2
+14.0
+(7.0, 21.0)
+
+131.0
+11.5
+(4.4, 18.6)
+
+131.4
+7.6
+(1.0, 14.2)
+
+Mean baseline body weight was 210lbs, 203 lbs and 193 lbs in the Metformin Hydrochloride Tablets 500 mg twice daily, and Metformin Hydrochloride Extended-release Tablets 1000 mg and 1500 mg once daily arms, respectively. Mean change in body weight from baseline to week 24 was 0.9 Ibs, 1.1 Ibs and 0.9 Ibs, respectively.
+
+
+=== HOW SUPPLIED ===
+
+Metformin Hydrochloride Extended-release TabletsUSP are available as follows:
+Metformin Hydrochloride Extended-release Tablets USP, 500 mg are white to off-white color, round, biconvex tablet, having B115 on one side and plain on the other.
+Metformin Hydrochloride Extended-release Tablets USP, 750 mg are white to off-white color, capsule shape, biconvex tablet, having B116 on one side and plain on the other.
+
+
+=== 17 PATIENT COUNSELING INFORMATION ===
+
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
+
+
+
+
+Manufactured by:
+
+3020013038
+Rev. 11/2025
+
+
+=== SPL PATIENT PACKAGE INSERT SECTION ===
+
+
+Read the Patient Information that comes with metformin hydrochloride extended-release tablets before you start taking it and each time you get a refill. There may be new information. This leaflet does not take the place of talking with your healthcare provider about your medical condition or treatment.
+
+
+
+
+
+
+
+
+
+• have a history or risk for diabetic ketoacidosis (high levels of certain acids, known as ketones, in the blood or urine). Metformin hydrochloride extended-release tablets should not be used for the treatment of diabetic ketoacidosis.
+
+
+
+
+
+Call your doctor right away if you have any of the following symptoms, which could be signs of lactic
+Most people who have had lactic acidosis with metformin have other things that, combined with the metformin, led to the lactic acidosis. Tell your doctor if you have any of the following, because you have a higher chance for getting lactic acidosis with metformin hydrochloride extended- release tablets, if you:
+• have severe kidney problems, or your kidneys are affected by certain x–ray tests that use injectable dye
+Common side effects of metformin hydrochloride extended-release tablets, include diarrhea, nausea, and upset stomach. These side effects generally go away after you take the medicine for a while. Taking your medicine with meals can help reduce these side effects. Tell your doctor if the side effects bother you a lot, last for more than a few weeks, come back after they've gone away, or start later in therapy. You may need a lower dose or need to stop taking the medicine for a short period or for good.
+About 3 out of every 100 people who take metformin hydrochloride extended-release tablets have an unpleasant metallic taste when they start taking the medicine. It lasts for a short time.
+Metformin hydrochloride extended-release tablets rarely cause hypoglycemia (low blood sugar) by themselves. However, hypoglycemia can happen if you do not eat enough, if you drink alcohol, or if you take other medicines to lower blood sugar.
+
+
+
+
+Inactive ingredients in each tablet of Metformin Hydrochloride Extended-release Tablets 500 mg and 750 mg: sodium carboxymethyl cellulose, hypromellose, povidone, microcrystalline cellulose, and magnesium stearate.
+
+Talk to your healthcare provider about how to prevent, recognize, and take care of low blood sugar (hypoglycemia), high blood sugar (hyperglycemia), and problems you have because of your diabetes.
+Manufactured by:
+Made in Bangladesh
+3020013038
+Rev. 11/2025
+
+
+=== PRINCIPAL DISPLAY PANNEL ===
+
+Rx only
+Metformin ER
+500 mg
+
+Metformin ER
+750 mg
